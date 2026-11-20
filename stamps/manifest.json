@@ -1,4 +1,30 @@
 {
   "version": 1,
-  "stamps": []
+  "stamps": [
+    { "id": "angry", "label": "Angry", "emoji": { "name": "😠" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Angry.gif" },
+    { "id": "arrive-chopstick", "label": "Arrive-Chopstick", "emoji": { "name": "🥢" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Arrive-Chopstick.gif" },
+    { "id": "arrive-spoon", "label": "Arrive-Spoon", "emoji": { "name": "🥄" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Arrive-Spoon.gif" },
+    { "id": "arrive", "label": "Arrive", "emoji": { "name": "👋" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Arrive.gif" },
+    { "id": "battery-charge", "label": "Battery-Charge", "emoji": { "name": "🔋" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Battery-Charge.gif" },
+    { "id": "battery-low", "label": "Battery-Low", "emoji": { "name": "🪫" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Battery-Low.gif" },
+    { "id": "bell", "label": "Bell", "emoji": { "name": "🔔" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bell.gif" },
+    { "id": "bite-1", "label": "Bite-1", "emoji": { "name": "😬" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bite-1.gif" },
+    { "id": "bite-2", "label": "Bite-2", "emoji": { "name": "🦷" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bite-2.gif" },
+    { "id": "blep-1", "label": "Blep-1", "emoji": { "name": "😛" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blep-1.gif" },
+    { "id": "blep-2", "label": "Blep-2", "emoji": { "name": "😝" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blep-2.gif" },
+    { "id": "blep-3", "label": "Blep-3", "emoji": { "name": "😜" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blep-3.gif" },
+    { "id": "blep-4", "label": "Blep-4", "emoji": { "name": "😋" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blep-4.gif" },
+    { "id": "blink-1", "label": "Blink-1", "emoji": { "name": "😉" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blink-1.gif" },
+    { "id": "blownose", "label": "BlowNose", "emoji": { "name": "🤧" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/BlowNose.gif" },
+    { "id": "blushing-1", "label": "Blushing-1", "emoji": { "name": "☺️" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blushing-1.gif" },
+    { "id": "blushing-2", "label": "Blushing-2", "emoji": { "name": "😊" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blushing-2.gif" },
+    { "id": "bongo-frame", "label": "Bongo-Frame", "emoji": { "name": "🥁" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bongo-Frame.gif" },
+    { "id": "bongo-frameleft", "label": "Bongo-FrameLeft", "emoji": { "name": "🥁" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bongo-FrameLeft.gif" },
+    { "id": "bongo-frameright", "label": "Bongo-FrameRight", "emoji": { "name": "🥁" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bongo-FrameRight.gif" },
+    { "id": "bongo-smooth", "label": "Bongo-Smooth", "emoji": { "name": "🎶" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bongo-Smooth.gif" },
+    { "id": "bonk", "label": "Bonk", "emoji": { "name": "🔨" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bonk.gif" },
+    { "id": "book-blush", "label": "Book-Blush", "emoji": { "name": "📖" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Book-Blush.gif" },
+    { "id": "book-read", "label": "Book-Read", "emoji": { "name": "📚" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Book-Read.gif" },
+    { "id": "boop", "label": "Boop", "emoji": { "name": "👉" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Boop.gif" }
+  ]
 }

@@ -14,7 +14,7 @@ discord-stamps/
         └── result.gif
 ```
 
-`<stamp-id>`は小文字英数字、ハイフン、アンダースコアのみで、先頭は英数字、最大32文字とします。1スタンプにつきGIFを1つ置き、ファイル名は`result.gif`に統一します。
+`<stamp-id>`は小文字英数字、ハイフン、アンダースコアのみで、先頭は英数字、最大32文字とします。1スタンプにつきGIFを1つ置き、ファイル名は`result.gif`に統一します。現在のマニフェストはEmoteLabの先頭25件を試用登録しています。
 
 ## `stamps/manifest.json` フォーマット
 
@@ -48,3 +48,14 @@ STAMP_MANIFEST_URL=https://raw.githubusercontent.com/OWNER/discord-stamps/main/s
 ```
 
 変更後はWorkerを再デプロイし、コマンド定義変更時はBotトークンを使って`npm run register`を実行します。
+
+## 絵文字用PNGの生成
+
+送信用GIFをローカルに取得したあと、Workerリポジトリで次を実行します。各GIFの先頭フレームを128×128の透過PNGに変換します。
+
+```bash
+npm install
+npm run generate-emojis -- --input ./送信用画像 --output /Users/myuser/Documents/GitHub/discord-stamps/emojis
+```
+
+生成したPNGをDiscordサーバーのカスタム絵文字として登録した場合は、`manifest.json`の`emoji`を`{ "name": "絵文字名", "id": "絵文字ID", "animated": false }`に変更できます。現状はユーザーインストールでも動作するUnicode絵文字を使用しています。
