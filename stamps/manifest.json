@@ -1,30 +1,2181 @@
 {
   "version": 1,
   "stamps": [
-    { "id": "angry", "label": "Angry", "emoji": { "name": "stamp_angry", "id": "1573376213794164876" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Angry.gif" },
-    { "id": "arrive-chopstick", "label": "Arrive-Chopstick", "emoji": { "name": "stamp_arrive_chopstick", "id": "1573376219901333514" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Arrive-Chopstick.gif" },
-    { "id": "arrive-spoon", "label": "Arrive-Spoon", "emoji": { "name": "stamp_arrive_spoon", "id": "1573376224644829224" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Arrive-Spoon.gif" },
-    { "id": "arrive", "label": "Arrive", "emoji": { "name": "stamp_arrive", "id": "1573376228935602316" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Arrive.gif" },
-    { "id": "battery-charge", "label": "Battery-Charge", "emoji": { "name": "stamp_battery_charge", "id": "1573376236938592277" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Battery-Charge.gif" },
-    { "id": "battery-low", "label": "Battery-Low", "emoji": { "name": "stamp_battery_low", "id": "1573376241636216983" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Battery-Low.gif" },
-    { "id": "bell", "label": "Bell", "emoji": { "name": "stamp_bell", "id": "1573376245566279690" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bell.gif" },
-    { "id": "bite-1", "label": "Bite-1", "emoji": { "name": "stamp_bite_1", "id": "1573376252017115146" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bite-1.gif" },
-    { "id": "bite-2", "label": "Bite-2", "emoji": { "name": "stamp_bite_2", "id": "1573376256588910652" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bite-2.gif" },
-    { "id": "blep-1", "label": "Blep-1", "emoji": { "name": "stamp_blep_1", "id": "1573376259772129280" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blep-1.gif" },
-    { "id": "blep-2", "label": "Blep-2", "emoji": { "name": "stamp_blep_2", "id": "1573376262976708688" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blep-2.gif" },
-    { "id": "blep-3", "label": "Blep-3", "emoji": { "name": "stamp_blep_3", "id": "1573376268668502198" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blep-3.gif" },
-    { "id": "blep-4", "label": "Blep-4", "emoji": { "name": "stamp_blep_4", "id": "1573376272174940361" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blep-4.gif" },
-    { "id": "blink-1", "label": "Blink-1", "emoji": { "name": "stamp_blink_1", "id": "1573376276700332163" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blink-1.gif" },
-    { "id": "blownose", "label": "BlowNose", "emoji": { "name": "stamp_blownose", "id": "1573376281419186307" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/BlowNose.gif" },
-    { "id": "blushing-1", "label": "Blushing-1", "emoji": { "name": "stamp_blushing_1", "id": "1573376286082998334" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blushing-1.gif" },
-    { "id": "blushing-2", "label": "Blushing-2", "emoji": { "name": "stamp_blushing_2", "id": "1573376290478883017" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blushing-2.gif" },
-    { "id": "bongo-frame", "label": "Bongo-Frame", "emoji": { "name": "stamp_bongo_frame", "id": "1573376294542909620" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bongo-Frame.gif" },
-    { "id": "bongo-frameleft", "label": "Bongo-FrameLeft", "emoji": { "name": "stamp_bongo_frameleft", "id": "1573376298829750412" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bongo-FrameLeft.gif" },
-    { "id": "bongo-frameright", "label": "Bongo-FrameRight", "emoji": { "name": "stamp_bongo_frameright", "id": "1573376302835175604" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bongo-FrameRight.gif" },
-    { "id": "bongo-smooth", "label": "Bongo-Smooth", "emoji": { "name": "stamp_bongo_smooth", "id": "1573376307369087119" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bongo-Smooth.gif" },
-    { "id": "bonk", "label": "Bonk", "emoji": { "name": "stamp_bonk", "id": "1573376311575969884" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bonk.gif" },
-    { "id": "book-blush", "label": "Book-Blush", "emoji": { "name": "stamp_book_blush", "id": "1573376317120839702" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Book-Blush.gif" },
-    { "id": "book-read", "label": "Book-Read", "emoji": { "name": "stamp_book_read", "id": "1573376324658004040" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Book-Read.gif" },
-    { "id": "boop", "label": "Boop", "emoji": { "name": "stamp_boop", "id": "1573376331138474235" }, "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Boop.gif" }
+    {
+      "id": "angry",
+      "label": "スタンプ001",
+      "description": "Angry",
+      "emoji": {
+        "name": "stamp_angry",
+        "id": "1573376213794164876"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Angry.gif"
+    },
+    {
+      "id": "arrive-chopstick",
+      "label": "スタンプ002",
+      "description": "Arrive-Chopstick",
+      "emoji": {
+        "name": "stamp_arrive_chopstick",
+        "id": "1573376219901333514"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Arrive-Chopstick.gif"
+    },
+    {
+      "id": "arrive-spoon",
+      "label": "スタンプ003",
+      "description": "Arrive-Spoon",
+      "emoji": {
+        "name": "stamp_arrive_spoon",
+        "id": "1573376224644829224"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Arrive-Spoon.gif"
+    },
+    {
+      "id": "arrive",
+      "label": "スタンプ004",
+      "description": "Arrive",
+      "emoji": {
+        "name": "stamp_arrive",
+        "id": "1573376228935602316"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Arrive.gif"
+    },
+    {
+      "id": "battery-charge",
+      "label": "スタンプ005",
+      "description": "Battery-Charge",
+      "emoji": {
+        "name": "stamp_battery_charge",
+        "id": "1573376236938592277"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Battery-Charge.gif"
+    },
+    {
+      "id": "battery-low",
+      "label": "スタンプ006",
+      "description": "Battery-Low",
+      "emoji": {
+        "name": "stamp_battery_low",
+        "id": "1573376241636216983"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Battery-Low.gif"
+    },
+    {
+      "id": "bell",
+      "label": "スタンプ007",
+      "description": "Bell",
+      "emoji": {
+        "name": "stamp_bell",
+        "id": "1573376245566279690"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bell.gif"
+    },
+    {
+      "id": "bite-1",
+      "label": "スタンプ008",
+      "description": "Bite-1",
+      "emoji": {
+        "name": "stamp_bite_1",
+        "id": "1573376252017115146"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bite-1.gif"
+    },
+    {
+      "id": "bite-2",
+      "label": "スタンプ009",
+      "description": "Bite-2",
+      "emoji": {
+        "name": "stamp_bite_2",
+        "id": "1573376256588910652"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bite-2.gif"
+    },
+    {
+      "id": "blep-1",
+      "label": "スタンプ010",
+      "description": "Blep-1",
+      "emoji": {
+        "name": "stamp_blep_1",
+        "id": "1573376259772129280"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blep-1.gif"
+    },
+    {
+      "id": "blep-2",
+      "label": "スタンプ011",
+      "description": "Blep-2",
+      "emoji": {
+        "name": "stamp_blep_2",
+        "id": "1573376262976708688"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blep-2.gif"
+    },
+    {
+      "id": "blep-3",
+      "label": "スタンプ012",
+      "description": "Blep-3",
+      "emoji": {
+        "name": "stamp_blep_3",
+        "id": "1573376268668502198"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blep-3.gif"
+    },
+    {
+      "id": "blep-4",
+      "label": "スタンプ013",
+      "description": "Blep-4",
+      "emoji": {
+        "name": "stamp_blep_4",
+        "id": "1573376272174940361"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blep-4.gif"
+    },
+    {
+      "id": "blink-1",
+      "label": "スタンプ014",
+      "description": "Blink-1",
+      "emoji": {
+        "name": "stamp_blink_1",
+        "id": "1573376276700332163"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blink-1.gif"
+    },
+    {
+      "id": "blownose",
+      "label": "スタンプ015",
+      "description": "BlowNose",
+      "emoji": {
+        "name": "stamp_blownose",
+        "id": "1573376281419186307"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/BlowNose.gif"
+    },
+    {
+      "id": "blushing-1",
+      "label": "スタンプ016",
+      "description": "Blushing-1",
+      "emoji": {
+        "name": "stamp_blushing_1",
+        "id": "1573376286082998334"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blushing-1.gif"
+    },
+    {
+      "id": "blushing-2",
+      "label": "スタンプ017",
+      "description": "Blushing-2",
+      "emoji": {
+        "name": "stamp_blushing_2",
+        "id": "1573376290478883017"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blushing-2.gif"
+    },
+    {
+      "id": "bongo-frame",
+      "label": "スタンプ018",
+      "description": "Bongo-Frame",
+      "emoji": {
+        "name": "stamp_bongo_frame",
+        "id": "1573376294542909620"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bongo-Frame.gif"
+    },
+    {
+      "id": "bongo-frameleft",
+      "label": "スタンプ019",
+      "description": "Bongo-FrameLeft",
+      "emoji": {
+        "name": "stamp_bongo_frameleft",
+        "id": "1573376298829750412"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bongo-FrameLeft.gif"
+    },
+    {
+      "id": "bongo-frameright",
+      "label": "スタンプ020",
+      "description": "Bongo-FrameRight",
+      "emoji": {
+        "name": "stamp_bongo_frameright",
+        "id": "1573376302835175604"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bongo-FrameRight.gif"
+    },
+    {
+      "id": "bongo-smooth",
+      "label": "スタンプ021",
+      "description": "Bongo-Smooth",
+      "emoji": {
+        "name": "stamp_bongo_smooth",
+        "id": "1573376307369087119"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bongo-Smooth.gif"
+    },
+    {
+      "id": "bonk",
+      "label": "スタンプ022",
+      "description": "Bonk",
+      "emoji": {
+        "name": "stamp_bonk",
+        "id": "1573376311575969884"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bonk.gif"
+    },
+    {
+      "id": "book-blush",
+      "label": "スタンプ023",
+      "description": "Book-Blush",
+      "emoji": {
+        "name": "stamp_book_blush",
+        "id": "1573376317120839702"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Book-Blush.gif"
+    },
+    {
+      "id": "book-read",
+      "label": "スタンプ024",
+      "description": "Book-Read",
+      "emoji": {
+        "name": "stamp_book_read",
+        "id": "1573376324658004040"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Book-Read.gif"
+    },
+    {
+      "id": "boop",
+      "label": "スタンプ025",
+      "description": "Boop",
+      "emoji": {
+        "name": "stamp_boop",
+        "id": "1573376331138474235"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Boop.gif"
+    },
+    {
+      "id": "bug",
+      "label": "スタンプ026",
+      "description": "Bug",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bug.gif"
+    },
+    {
+      "id": "button-punch",
+      "label": "スタンプ027",
+      "description": "Button-Punch",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Button-Punch.gif"
+    },
+    {
+      "id": "button",
+      "label": "スタンプ028",
+      "description": "Button",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Button.gif"
+    },
+    {
+      "id": "cake",
+      "label": "スタンプ029",
+      "description": "Cake",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Cake.gif"
+    },
+    {
+      "id": "cardswipe",
+      "label": "スタンプ030",
+      "description": "CardSwipe",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/CardSwipe.gif"
+    },
+    {
+      "id": "caught-phone",
+      "label": "スタンプ031",
+      "description": "Caught-Phone",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Caught-Phone.gif"
+    },
+    {
+      "id": "caught-videocamera",
+      "label": "スタンプ032",
+      "description": "Caught-VideoCamera",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Caught-VideoCamera.gif"
+    },
+    {
+      "id": "cauldron-magic1",
+      "label": "スタンプ033",
+      "description": "Cauldron-Magic1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Cauldron-Magic1.gif"
+    },
+    {
+      "id": "cauldron-magic2",
+      "label": "スタンプ034",
+      "description": "Cauldron-Magic2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Cauldron-Magic2.gif"
+    },
+    {
+      "id": "cauldron-stir1",
+      "label": "スタンプ035",
+      "description": "Cauldron-Stir1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Cauldron-Stir1.gif"
+    },
+    {
+      "id": "cauldron-stir2",
+      "label": "スタンプ036",
+      "description": "Cauldron-Stir2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Cauldron-Stir2.gif"
+    },
+    {
+      "id": "celebration",
+      "label": "スタンプ037",
+      "description": "Celebration",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Celebration.gif"
+    },
+    {
+      "id": "cheeksqueeze",
+      "label": "スタンプ038",
+      "description": "CheekSqueeze",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/CheekSqueeze.gif"
+    },
+    {
+      "id": "cheer",
+      "label": "スタンプ039",
+      "description": "Cheer",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Cheer.gif"
+    },
+    {
+      "id": "cheers",
+      "label": "スタンプ040",
+      "description": "Cheers",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Cheers.gif"
+    },
+    {
+      "id": "cheeseslap",
+      "label": "スタンプ041",
+      "description": "CheeseSlap",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/CheeseSlap.gif"
+    },
+    {
+      "id": "clown-1",
+      "label": "スタンプ042",
+      "description": "Clown-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Clown-1.gif"
+    },
+    {
+      "id": "clown-2",
+      "label": "スタンプ043",
+      "description": "Clown-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Clown-2.gif"
+    },
+    {
+      "id": "cokeshake",
+      "label": "スタンプ044",
+      "description": "CokeShake",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/CokeShake.gif"
+    },
+    {
+      "id": "copium",
+      "label": "スタンプ045",
+      "description": "Copium",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Copium.gif"
+    },
+    {
+      "id": "crowbar-1",
+      "label": "スタンプ046",
+      "description": "Crowbar-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Crowbar-1.gif"
+    },
+    {
+      "id": "crowbar-2",
+      "label": "スタンプ047",
+      "description": "Crowbar-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Crowbar-2.gif"
+    },
+    {
+      "id": "crowbar-3",
+      "label": "スタンプ048",
+      "description": "Crowbar-3",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Crowbar-3.gif"
+    },
+    {
+      "id": "cry-1",
+      "label": "スタンプ049",
+      "description": "Cry-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Cry-1.gif"
+    },
+    {
+      "id": "cry-2",
+      "label": "スタンプ050",
+      "description": "Cry-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Cry-2.gif"
+    },
+    {
+      "id": "cry-3",
+      "label": "スタンプ051",
+      "description": "Cry-3",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Cry-3.gif"
+    },
+    {
+      "id": "cut-scissors",
+      "label": "スタンプ052",
+      "description": "Cut-Scissors",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Cut-Scissors.gif"
+    },
+    {
+      "id": "dance-1",
+      "label": "スタンプ053",
+      "description": "Dance-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dance-1.gif"
+    },
+    {
+      "id": "dance-caramelldansen",
+      "label": "スタンプ054",
+      "description": "Dance-Caramelldansen",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dance-Caramelldansen.gif"
+    },
+    {
+      "id": "dance-helltaker",
+      "label": "スタンプ055",
+      "description": "Dance-Helltaker",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dance-Helltaker.gif"
+    },
+    {
+      "id": "dance-lowcortisol",
+      "label": "スタンプ056",
+      "description": "Dance-LowCortisol",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dance-LowCortisol.gif"
+    },
+    {
+      "id": "dance-scuba",
+      "label": "スタンプ057",
+      "description": "Dance-Scuba",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dance-Scuba.gif"
+    },
+    {
+      "id": "dead",
+      "label": "スタンプ058",
+      "description": "Dead",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dead.gif"
+    },
+    {
+      "id": "dizzy",
+      "label": "スタンプ059",
+      "description": "Dizzy",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dizzy.gif"
+    },
+    {
+      "id": "draw-angry",
+      "label": "スタンプ060",
+      "description": "Draw-Angry",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Draw-Angry.gif"
+    },
+    {
+      "id": "draw-normal",
+      "label": "スタンプ061",
+      "description": "Draw-Normal",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Draw-Normal.gif"
+    },
+    {
+      "id": "draw-tired",
+      "label": "スタンプ062",
+      "description": "Draw-Tired",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Draw-Tired.gif"
+    },
+    {
+      "id": "drink-beveragecup",
+      "label": "スタンプ063",
+      "description": "Drink-BeverageCup",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Drink-BeverageCup.gif"
+    },
+    {
+      "id": "drink-energydrink1",
+      "label": "スタンプ064",
+      "description": "Drink-EnergyDrink1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Drink-EnergyDrink1.gif"
+    },
+    {
+      "id": "drink-energydrink2",
+      "label": "スタンプ065",
+      "description": "Drink-EnergyDrink2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Drink-EnergyDrink2.gif"
+    },
+    {
+      "id": "drive",
+      "label": "スタンプ066",
+      "description": "Drive",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Drive.gif"
+    },
+    {
+      "id": "drooling-chopstick",
+      "label": "スタンプ067",
+      "description": "Drooling-Chopstick",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Drooling-Chopstick.gif"
+    },
+    {
+      "id": "drooling-forkknife",
+      "label": "スタンプ068",
+      "description": "Drooling-ForkKnife",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Drooling-ForkKnife.gif"
+    },
+    {
+      "id": "dum-1",
+      "label": "スタンプ069",
+      "description": "Dum-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dum-1.gif"
+    },
+    {
+      "id": "dum-2",
+      "label": "スタンプ070",
+      "description": "Dum-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dum-2.gif"
+    },
+    {
+      "id": "dum-3",
+      "label": "スタンプ071",
+      "description": "Dum-3",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dum-3.gif"
+    },
+    {
+      "id": "dum-sticker-1",
+      "label": "スタンプ072",
+      "description": "Dum-Sticker-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dum-Sticker-1.gif"
+    },
+    {
+      "id": "dum-sticker-2",
+      "label": "スタンプ073",
+      "description": "Dum-Sticker-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dum-Sticker-2.gif"
+    },
+    {
+      "id": "dum-sticker-3",
+      "label": "スタンプ074",
+      "description": "Dum-Sticker-3",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dum-Sticker-3.gif"
+    },
+    {
+      "id": "easter",
+      "label": "スタンプ075",
+      "description": "Easter",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Easter.gif"
+    },
+    {
+      "id": "eat-donut",
+      "label": "スタンプ076",
+      "description": "Eat-Donut",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Eat-Donut.gif"
+    },
+    {
+      "id": "eat-popcorn",
+      "label": "スタンプ077",
+      "description": "Eat-Popcorn",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Eat-Popcorn.gif"
+    },
+    {
+      "id": "eat-watermelon",
+      "label": "スタンプ078",
+      "description": "Eat-Watermelon",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Eat-Watermelon.gif"
+    },
+    {
+      "id": "electricfan-1",
+      "label": "スタンプ079",
+      "description": "ElectricFan-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ElectricFan-1.gif"
+    },
+    {
+      "id": "electricfan-2",
+      "label": "スタンプ080",
+      "description": "ElectricFan-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ElectricFan-2.gif"
+    },
+    {
+      "id": "exclamation",
+      "label": "スタンプ081",
+      "description": "Exclamation",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Exclamation.gif"
+    },
+    {
+      "id": "fire-1",
+      "label": "スタンプ082",
+      "description": "Fire-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Fire-1.gif"
+    },
+    {
+      "id": "fire-2",
+      "label": "スタンプ083",
+      "description": "Fire-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Fire-2.gif"
+    },
+    {
+      "id": "foldingfans",
+      "label": "スタンプ084",
+      "description": "FoldingFans",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/FoldingFans.gif"
+    },
+    {
+      "id": "game",
+      "label": "スタンプ085",
+      "description": "Game",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Game.gif"
+    },
+    {
+      "id": "gethit-bits",
+      "label": "スタンプ086",
+      "description": "GetHit-Bits",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/GetHit-Bits.gif"
+    },
+    {
+      "id": "gethit-coin",
+      "label": "スタンプ087",
+      "description": "GetHit-Coin",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/GetHit-Coin.gif"
+    },
+    {
+      "id": "gethit-custom",
+      "label": "スタンプ088",
+      "description": "GetHit-Custom",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/GetHit-Custom.gif"
+    },
+    {
+      "id": "gethit-heart",
+      "label": "スタンプ089",
+      "description": "GetHit-Heart",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/GetHit-Heart.gif"
+    },
+    {
+      "id": "gethit-slipper",
+      "label": "スタンプ090",
+      "description": "GetHit-Slipper",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/GetHit-Slipper.gif"
+    },
+    {
+      "id": "gift-1",
+      "label": "スタンプ091",
+      "description": "Gift-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Gift-1.gif"
+    },
+    {
+      "id": "gift-2",
+      "label": "スタンプ092",
+      "description": "Gift-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Gift-2.gif"
+    },
+    {
+      "id": "gift-3",
+      "label": "スタンプ093",
+      "description": "Gift-3",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Gift-3.gif"
+    },
+    {
+      "id": "greeting-1",
+      "label": "スタンプ094",
+      "description": "Greeting-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Greeting-1.gif"
+    },
+    {
+      "id": "greeting-2",
+      "label": "スタンプ095",
+      "description": "Greeting-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Greeting-2.gif"
+    },
+    {
+      "id": "guitar",
+      "label": "スタンプ096",
+      "description": "Guitar",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Guitar.gif"
+    },
+    {
+      "id": "gun-triggerhappy",
+      "label": "スタンプ097",
+      "description": "Gun-TriggerHappy",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Gun-TriggerHappy.gif"
+    },
+    {
+      "id": "head-nod",
+      "label": "スタンプ098",
+      "description": "Head-Nod",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Head-Nod.gif"
+    },
+    {
+      "id": "head-shake",
+      "label": "スタンプ099",
+      "description": "Head-Shake",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Head-Shake.gif"
+    },
+    {
+      "id": "hurt",
+      "label": "スタンプ100",
+      "description": "Hurt",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Hurt.gif"
+    },
+    {
+      "id": "hydrate",
+      "label": "スタンプ101",
+      "description": "Hydrate",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Hydrate.gif"
+    },
+    {
+      "id": "hypnosis",
+      "label": "スタンプ102",
+      "description": "Hypnosis",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Hypnosis.gif"
+    },
+    {
+      "id": "idea",
+      "label": "スタンプ103",
+      "description": "Idea",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Idea.gif"
+    },
+    {
+      "id": "jail-1",
+      "label": "スタンプ104",
+      "description": "Jail-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Jail-1.gif"
+    },
+    {
+      "id": "jail-2",
+      "label": "スタンプ105",
+      "description": "Jail-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Jail-2.gif"
+    },
+    {
+      "id": "knife-1",
+      "label": "スタンプ106",
+      "description": "Knife-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Knife-1.gif"
+    },
+    {
+      "id": "knife-2",
+      "label": "スタンプ107",
+      "description": "Knife-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Knife-2.gif"
+    },
+    {
+      "id": "laugh-point",
+      "label": "スタンプ108",
+      "description": "Laugh-Point",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Laugh-Point.gif"
+    },
+    {
+      "id": "laugh",
+      "label": "スタンプ109",
+      "description": "Laugh",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Laugh.gif"
+    },
+    {
+      "id": "lick-icecream",
+      "label": "スタンプ110",
+      "description": "Lick-IceCream",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Lick-IceCream.gif"
+    },
+    {
+      "id": "lick-popsicle",
+      "label": "スタンプ111",
+      "description": "Lick-Popsicle",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Lick-Popsicle.gif"
+    },
+    {
+      "id": "lick",
+      "label": "スタンプ112",
+      "description": "Lick",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Lick.gif"
+    },
+    {
+      "id": "lightstick-1",
+      "label": "スタンプ113",
+      "description": "Lightstick-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Lightstick-1.gif"
+    },
+    {
+      "id": "lightstick-2",
+      "label": "スタンプ114",
+      "description": "Lightstick-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Lightstick-2.gif"
+    },
+    {
+      "id": "loading-cup",
+      "label": "スタンプ115",
+      "description": "Loading-Cup",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Loading-Cup.gif"
+    },
+    {
+      "id": "loading-mug",
+      "label": "スタンプ116",
+      "description": "Loading-Mug",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Loading-Mug.gif"
+    },
+    {
+      "id": "loading-sleep",
+      "label": "スタンプ117",
+      "description": "Loading-Sleep",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Loading-Sleep.gif"
+    },
+    {
+      "id": "loveletter",
+      "label": "スタンプ118",
+      "description": "LoveLetter",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/LoveLetter.gif"
+    },
+    {
+      "id": "lurk-1",
+      "label": "スタンプ119",
+      "description": "Lurk-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Lurk-1.gif"
+    },
+    {
+      "id": "lurk-2",
+      "label": "スタンプ120",
+      "description": "Lurk-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Lurk-2.gif"
+    },
+    {
+      "id": "luv-1",
+      "label": "スタンプ121",
+      "description": "Luv-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Luv-1.gif"
+    },
+    {
+      "id": "luv-2",
+      "label": "スタンプ122",
+      "description": "Luv-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Luv-2.gif"
+    },
+    {
+      "id": "luv-3",
+      "label": "スタンプ123",
+      "description": "Luv-3",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Luv-3.gif"
+    },
+    {
+      "id": "magic",
+      "label": "スタンプ124",
+      "description": "Magic",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Magic.gif"
+    },
+    {
+      "id": "megaphone",
+      "label": "スタンプ125",
+      "description": "Megaphone",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Megaphone.gif"
+    },
+    {
+      "id": "money",
+      "label": "スタンプ126",
+      "description": "Money",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Money.gif"
+    },
+    {
+      "id": "music-1",
+      "label": "スタンプ127",
+      "description": "Music-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Music-1.gif"
+    },
+    {
+      "id": "music-2",
+      "label": "スタンプ128",
+      "description": "Music-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Music-2.gif"
+    },
+    {
+      "id": "music-3",
+      "label": "スタンプ129",
+      "description": "Music-3",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Music-3.gif"
+    },
+    {
+      "id": "mute-1",
+      "label": "スタンプ130",
+      "description": "Mute-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Mute-1.gif"
+    },
+    {
+      "id": "mute-2",
+      "label": "スタンプ131",
+      "description": "Mute-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Mute-2.gif"
+    },
+    {
+      "id": "needfood",
+      "label": "スタンプ132",
+      "description": "NeedFood",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/NeedFood.gif"
+    },
+    {
+      "id": "nerd-1",
+      "label": "スタンプ133",
+      "description": "Nerd-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Nerd-1.gif"
+    },
+    {
+      "id": "nerd-2",
+      "label": "スタンプ134",
+      "description": "Nerd-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Nerd-2.gif"
+    },
+    {
+      "id": "nerd-3",
+      "label": "スタンプ135",
+      "description": "Nerd-3",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Nerd-3.gif"
+    },
+    {
+      "id": "nervous-1",
+      "label": "スタンプ136",
+      "description": "Nervous-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Nervous-1.gif"
+    },
+    {
+      "id": "nervous-2",
+      "label": "スタンプ137",
+      "description": "Nervous-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Nervous-2.gif"
+    },
+    {
+      "id": "nervous-3",
+      "label": "スタンプ138",
+      "description": "Nervous-3",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Nervous-3.gif"
+    },
+    {
+      "id": "noted-1",
+      "label": "スタンプ139",
+      "description": "Noted-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Noted-1.gif"
+    },
+    {
+      "id": "noted-2",
+      "label": "スタンプ140",
+      "description": "Noted-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Noted-2.gif"
+    },
+    {
+      "id": "pngtuber-idle",
+      "label": "スタンプ141",
+      "description": "PNGTuber-Idle",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/PNGTuber-Idle.gif"
+    },
+    {
+      "id": "pngtuber-idle2",
+      "label": "スタンプ142",
+      "description": "PNGTuber-Idle2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/PNGTuber-Idle2.gif"
+    },
+    {
+      "id": "pngtuber-loading",
+      "label": "スタンプ143",
+      "description": "PNGTuber-Loading",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/PNGTuber-Loading.gif"
+    },
+    {
+      "id": "pngtuber-talk",
+      "label": "スタンプ144",
+      "description": "PNGTuber-Talk",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/PNGTuber-Talk.gif"
+    },
+    {
+      "id": "pngtuber-talk2",
+      "label": "スタンプ145",
+      "description": "PNGTuber-Talk2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/PNGTuber-Talk2.gif"
+    },
+    {
+      "id": "pngtuber-yap",
+      "label": "スタンプ146",
+      "description": "PNGTuber-Yap",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/PNGTuber-Yap.gif"
+    },
+    {
+      "id": "paidbreak-easymode",
+      "label": "スタンプ147",
+      "description": "PaidBreak-EasyMode",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/PaidBreak-EasyMode.gif"
+    },
+    {
+      "id": "paidbreak-hardmode",
+      "label": "スタンプ148",
+      "description": "PaidBreak-HardMode",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/PaidBreak-HardMode.gif"
+    },
+    {
+      "id": "pat-2",
+      "label": "スタンプ149",
+      "description": "Pat-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Pat-2.gif"
+    },
+    {
+      "id": "pat",
+      "label": "スタンプ150",
+      "description": "Pat",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Pat.gif"
+    },
+    {
+      "id": "pillow-lick",
+      "label": "スタンプ151",
+      "description": "Pillow-Lick",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Pillow-Lick.gif"
+    },
+    {
+      "id": "pillow-rub",
+      "label": "スタンプ152",
+      "description": "Pillow-Rub",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Pillow-Rub.gif"
+    },
+    {
+      "id": "pillow-rub2",
+      "label": "スタンプ153",
+      "description": "Pillow-Rub2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Pillow-Rub2.gif"
+    },
+    {
+      "id": "point",
+      "label": "スタンプ154",
+      "description": "Point",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Point.gif"
+    },
+    {
+      "id": "popcat-frame",
+      "label": "スタンプ155",
+      "description": "Popcat-Frame",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Popcat-Frame.gif"
+    },
+    {
+      "id": "popcat-smooth",
+      "label": "スタンプ156",
+      "description": "Popcat-Smooth",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Popcat-Smooth.gif"
+    },
+    {
+      "id": "press",
+      "label": "スタンプ157",
+      "description": "Press",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Press.gif"
+    },
+    {
+      "id": "pumpkin",
+      "label": "スタンプ158",
+      "description": "Pumpkin",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Pumpkin.gif"
+    },
+    {
+      "id": "question",
+      "label": "スタンプ159",
+      "description": "Question",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Question.gif"
+    },
+    {
+      "id": "raid-1",
+      "label": "スタンプ160",
+      "description": "Raid-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Raid-1.gif"
+    },
+    {
+      "id": "raid-2",
+      "label": "スタンプ161",
+      "description": "Raid-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Raid-2.gif"
+    },
+    {
+      "id": "redpacket-2",
+      "label": "スタンプ162",
+      "description": "RedPacket-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/RedPacket-2.gif"
+    },
+    {
+      "id": "redpacket-1",
+      "label": "スタンプ163",
+      "description": "Redpacket-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Redpacket-1.gif"
+    },
+    {
+      "id": "reverse",
+      "label": "スタンプ164",
+      "description": "Reverse",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Reverse.gif"
+    },
+    {
+      "id": "rose",
+      "label": "スタンプ165",
+      "description": "Rose",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Rose.gif"
+    },
+    {
+      "id": "rub-1",
+      "label": "スタンプ166",
+      "description": "Rub-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Rub-1.gif"
+    },
+    {
+      "id": "scared-1",
+      "label": "スタンプ167",
+      "description": "Scared-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Scared-1.gif"
+    },
+    {
+      "id": "scared-2",
+      "label": "スタンプ168",
+      "description": "Scared-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Scared-2.gif"
+    },
+    {
+      "id": "scared-cross",
+      "label": "スタンプ169",
+      "description": "Scared-Cross",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Scared-Cross.gif"
+    },
+    {
+      "id": "score-0point",
+      "label": "スタンプ170",
+      "description": "Score-0Point",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Score-0Point.gif"
+    },
+    {
+      "id": "score-10point",
+      "label": "スタンプ171",
+      "description": "Score-10Point",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Score-10Point.gif"
+    },
+    {
+      "id": "shy-1",
+      "label": "スタンプ172",
+      "description": "Shy-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Shy-1.gif"
+    },
+    {
+      "id": "shy-2",
+      "label": "スタンプ173",
+      "description": "Shy-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Shy-2.gif"
+    },
+    {
+      "id": "shy-3",
+      "label": "スタンプ174",
+      "description": "Shy-3",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Shy-3.gif"
+    },
+    {
+      "id": "sick-bed",
+      "label": "スタンプ175",
+      "description": "Sick-bed",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sick-bed.gif"
+    },
+    {
+      "id": "sick",
+      "label": "スタンプ176",
+      "description": "Sick",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sick.gif"
+    },
+    {
+      "id": "sing",
+      "label": "スタンプ177",
+      "description": "Sing",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sing.gif"
+    },
+    {
+      "id": "sixseven-dum",
+      "label": "スタンプ178",
+      "description": "SixSeven-Dum",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/SixSeven-Dum.gif"
+    },
+    {
+      "id": "sixseven",
+      "label": "スタンプ179",
+      "description": "SixSeven",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/SixSeven.gif"
+    },
+    {
+      "id": "sleep-normal",
+      "label": "スタンプ180",
+      "description": "Sleep-Normal",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sleep-Normal.gif"
+    },
+    {
+      "id": "sleep-preparing-stage1",
+      "label": "スタンプ181",
+      "description": "Sleep-Preparing-Stage1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sleep-Preparing-Stage1.gif"
+    },
+    {
+      "id": "sleep-preparing-stage2",
+      "label": "スタンプ182",
+      "description": "Sleep-Preparing-Stage2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sleep-Preparing-Stage2.gif"
+    },
+    {
+      "id": "sleep-uu",
+      "label": "スタンプ183",
+      "description": "Sleep-UU",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sleep-UU.gif"
+    },
+    {
+      "id": "slipper-1",
+      "label": "スタンプ184",
+      "description": "Slipper-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Slipper-1.gif"
+    },
+    {
+      "id": "slipper-2",
+      "label": "スタンプ185",
+      "description": "Slipper-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Slipper-2.gif"
+    },
+    {
+      "id": "sparkling-1",
+      "label": "スタンプ186",
+      "description": "Sparkling-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sparkling-1.gif"
+    },
+    {
+      "id": "sparkling-2",
+      "label": "スタンプ187",
+      "description": "Sparkling-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sparkling-2.gif"
+    },
+    {
+      "id": "sparkling-3",
+      "label": "スタンプ188",
+      "description": "Sparkling-3",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sparkling-3.gif"
+    },
+    {
+      "id": "spray",
+      "label": "スタンプ189",
+      "description": "Spray",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Spray.gif"
+    },
+    {
+      "id": "stop",
+      "label": "スタンプ190",
+      "description": "Stop",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Stop.gif"
+    },
+    {
+      "id": "stopsworking",
+      "label": "スタンプ191",
+      "description": "StopsWorking",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/StopsWorking.gif"
+    },
+    {
+      "id": "sunglasses-gleam",
+      "label": "スタンプ192",
+      "description": "Sunglasses-Gleam",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sunglasses-Gleam.gif"
+    },
+    {
+      "id": "sunglasses-loop",
+      "label": "スタンプ193",
+      "description": "Sunglasses-Loop",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sunglasses-Loop.gif"
+    },
+    {
+      "id": "sunglasses-pixelgleam",
+      "label": "スタンプ194",
+      "description": "Sunglasses-PixelGleam",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sunglasses-PixelGleam.gif"
+    },
+    {
+      "id": "sunglasses-remove",
+      "label": "スタンプ195",
+      "description": "Sunglasses-Remove",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sunglasses-Remove.gif"
+    },
+    {
+      "id": "surprise",
+      "label": "スタンプ196",
+      "description": "Surprise",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Surprise.gif"
+    },
+    {
+      "id": "swatter",
+      "label": "スタンプ197",
+      "description": "Swatter",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Swatter.gif"
+    },
+    {
+      "id": "sweat-wipe1",
+      "label": "スタンプ198",
+      "description": "Sweat-Wipe1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sweat-Wipe1.gif"
+    },
+    {
+      "id": "sweat-wipe2",
+      "label": "スタンプ199",
+      "description": "Sweat-Wipe2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sweat-Wipe2.gif"
+    },
+    {
+      "id": "sweat",
+      "label": "スタンプ200",
+      "description": "Sweat",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sweat.gif"
+    },
+    {
+      "id": "tablet",
+      "label": "スタンプ201",
+      "description": "Tablet",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Tablet.gif"
+    },
+    {
+      "id": "tailwag",
+      "label": "スタンプ202",
+      "description": "TailWag",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/TailWag.gif"
+    },
+    {
+      "id": "takemymoney",
+      "label": "スタンプ203",
+      "description": "TakeMyMoney",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/TakeMyMoney.gif"
+    },
+    {
+      "id": "tape",
+      "label": "スタンプ204",
+      "description": "Tape",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Tape.gif"
+    },
+    {
+      "id": "tea-1",
+      "label": "スタンプ205",
+      "description": "Tea-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Tea-1.gif"
+    },
+    {
+      "id": "tea-2",
+      "label": "スタンプ206",
+      "description": "Tea-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Tea-2.gif"
+    },
+    {
+      "id": "tea-3",
+      "label": "スタンプ207",
+      "description": "Tea-3",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Tea-3.gif"
+    },
+    {
+      "id": "think-confident",
+      "label": "スタンプ208",
+      "description": "Think-Confident",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Think-Confident.gif"
+    },
+    {
+      "id": "think-serious",
+      "label": "スタンプ209",
+      "description": "Think-Serious",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Think-Serious.gif"
+    },
+    {
+      "id": "thisisfine-1",
+      "label": "スタンプ210",
+      "description": "ThisIsFine-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ThisIsFine-1.gif"
+    },
+    {
+      "id": "thisisfine-2",
+      "label": "スタンプ211",
+      "description": "ThisIsFine-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ThisIsFine-2.gif"
+    },
+    {
+      "id": "thisisfine-3",
+      "label": "スタンプ212",
+      "description": "ThisIsFine-3",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ThisIsFine-3.gif"
+    },
+    {
+      "id": "thisisfine-4",
+      "label": "スタンプ213",
+      "description": "ThisIsFine-4",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ThisIsFine-4.gif"
+    },
+    {
+      "id": "thisisfine-5",
+      "label": "スタンプ214",
+      "description": "ThisIsFine-5",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ThisIsFine-5.gif"
+    },
+    {
+      "id": "thisisfine-6",
+      "label": "スタンプ215",
+      "description": "ThisIsFine-6",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ThisIsFine-6.gif"
+    },
+    {
+      "id": "thumbdown",
+      "label": "スタンプ216",
+      "description": "ThumbDown",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ThumbDown.gif"
+    },
+    {
+      "id": "thumbup",
+      "label": "スタンプ217",
+      "description": "ThumbUp",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ThumbUp.gif"
+    },
+    {
+      "id": "trashbin",
+      "label": "スタンプ218",
+      "description": "TrashBin",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/TrashBin.gif"
+    },
+    {
+      "id": "trashtuber-idle",
+      "label": "スタンプ219",
+      "description": "TrashTuber-Idle",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/TrashTuber-Idle.gif"
+    },
+    {
+      "id": "trashtuber-talk",
+      "label": "スタンプ220",
+      "description": "TrashTuber-Talk",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/TrashTuber-Talk.gif"
+    },
+    {
+      "id": "trashtuber-yap",
+      "label": "スタンプ221",
+      "description": "TrashTuber-Yap",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/TrashTuber-Yap.gif"
+    },
+    {
+      "id": "trophy-1",
+      "label": "スタンプ222",
+      "description": "Trophy-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Trophy-1.gif"
+    },
+    {
+      "id": "type-angry",
+      "label": "スタンプ223",
+      "description": "Type-Angry",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Type-Angry.gif"
+    },
+    {
+      "id": "type-annoyed",
+      "label": "スタンプ224",
+      "description": "Type-Annoyed",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Type-Annoyed.gif"
+    },
+    {
+      "id": "type-normal",
+      "label": "スタンプ225",
+      "description": "Type-Normal",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Type-Normal.gif"
+    },
+    {
+      "id": "wiggle-1",
+      "label": "スタンプ226",
+      "description": "Wiggle-1",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Wiggle-1.gif"
+    },
+    {
+      "id": "wiggle-2",
+      "label": "スタンプ227",
+      "description": "Wiggle-2",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Wiggle-2.gif"
+    },
+    {
+      "id": "wink",
+      "label": "スタンプ228",
+      "description": "Wink",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Wink.gif"
+    },
+    {
+      "id": "work-angry",
+      "label": "スタンプ229",
+      "description": "Work-Angry",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Work-Angry.gif"
+    },
+    {
+      "id": "work-nap",
+      "label": "スタンプ230",
+      "description": "Work-Nap",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Work-Nap.gif"
+    },
+    {
+      "id": "work-normal",
+      "label": "スタンプ231",
+      "description": "Work-Normal",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Work-Normal.gif"
+    },
+    {
+      "id": "work-tired",
+      "label": "スタンプ232",
+      "description": "Work-Tired",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Work-Tired.gif"
+    },
+    {
+      "id": "yay",
+      "label": "スタンプ233",
+      "description": "Yay",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Yay.gif"
+    },
+    {
+      "id": "stamp-234",
+      "label": "スタンプ234",
+      "description": "いいね アラート",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/いいね アラート.gif"
+    },
+    {
+      "id": "stamp-235",
+      "label": "スタンプ235",
+      "description": "アラートカスタム",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/アラートカスタム.gif"
+    },
+    {
+      "id": "stamp-236",
+      "label": "スタンプ236",
+      "description": "ハート アラート",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ハート アラート.gif"
+    },
+    {
+      "id": "stamp-237",
+      "label": "スタンプ237",
+      "description": "ビッツ アラート",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ビッツ アラート.gif"
+    },
+    {
+      "id": "stamp-238",
+      "label": "スタンプ238",
+      "description": "寄付 アラート",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/寄付 アラート.gif"
+    },
+    {
+      "id": "stamp-239",
+      "label": "スタンプ239",
+      "description": "星 アラート",
+      "emoji": {
+        "name": "✨"
+      },
+      "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/星 アラート.gif"
+    }
   ]
 }

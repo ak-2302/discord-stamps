@@ -14,7 +14,7 @@ discord-stamps/
         └── result.gif
 ```
 
-`<stamp-id>`は小文字英数字、ハイフン、アンダースコアのみで、先頭は英数字、最大32文字とします。1スタンプにつきGIFを1つ置き、ファイル名は`result.gif`に統一します。現在のマニフェストはEmoteLabの先頭25件を試用登録しています。
+`<stamp-id>`は小文字英数字、ハイフン、アンダースコアのみで、先頭は英数字、最大32文字とします。1スタンプにつきGIFを1つ置き、ファイル名は`result.gif`に統一します。現在のマニフェストはEmoteLabの239件を登録しています。
 
 ## `stamps/manifest.json` フォーマット
 
@@ -33,9 +33,10 @@ discord-stamps/
 ```
 
 - `version`：必ず`1`
-- `stamps`：最大25件。配列順がボタン順になる
+- `stamps`：最大125件。配列順がプルダウン順になる（5行×25件）
 - `id`：一意なスタンプID
-- `label`：ボタンのラベル（80文字以内）
+- `label`：日本語のプルダウン表示名（100文字以内）
+- `description`：元画像名などの補足説明（100文字以内）
 - `emoji`：Unicode絵文字なら`name`、カスタム絵文字なら`name`・`id`・必要に応じて`animated: true`
 - `gif`：HTTPSで取得できるGIFの公開URL。GitHubではraw URLを使う
 
