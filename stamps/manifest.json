@@ -7,7 +7,8 @@
       "description": "Angry",
       "emoji": {
         "name": "stamp_angry",
-        "id": "1573376213794164876"
+        "id": "1573376213794164876",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Angry.gif"
     },
@@ -17,7 +18,8 @@
       "description": "Arrive-Chopstick",
       "emoji": {
         "name": "stamp_arrive_chopstick",
-        "id": "1573376219901333514"
+        "id": "1573376219901333514",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Arrive-Chopstick.gif"
     },
@@ -27,7 +29,8 @@
       "description": "Arrive-Spoon",
       "emoji": {
         "name": "stamp_arrive_spoon",
-        "id": "1573376224644829224"
+        "id": "1573376224644829224",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Arrive-Spoon.gif"
     },
@@ -37,7 +40,8 @@
       "description": "Arrive",
       "emoji": {
         "name": "stamp_arrive",
-        "id": "1573376228935602316"
+        "id": "1573376228935602316",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Arrive.gif"
     },
@@ -47,7 +51,8 @@
       "description": "Battery-Charge",
       "emoji": {
         "name": "stamp_battery_charge",
-        "id": "1573376236938592277"
+        "id": "1573376236938592277",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Battery-Charge.gif"
     },
@@ -57,7 +62,8 @@
       "description": "Battery-Low",
       "emoji": {
         "name": "stamp_battery_low",
-        "id": "1573376241636216983"
+        "id": "1573376241636216983",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Battery-Low.gif"
     },
@@ -67,7 +73,8 @@
       "description": "Bell",
       "emoji": {
         "name": "stamp_bell",
-        "id": "1573376245566279690"
+        "id": "1573376245566279690",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bell.gif"
     },
@@ -77,7 +84,8 @@
       "description": "Bite-1",
       "emoji": {
         "name": "stamp_bite_1",
-        "id": "1573376252017115146"
+        "id": "1573376252017115146",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bite-1.gif"
     },
@@ -87,7 +95,8 @@
       "description": "Bite-2",
       "emoji": {
         "name": "stamp_bite_2",
-        "id": "1573376256588910652"
+        "id": "1573376256588910652",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bite-2.gif"
     },
@@ -97,7 +106,8 @@
       "description": "Blep-1",
       "emoji": {
         "name": "stamp_blep_1",
-        "id": "1573376259772129280"
+        "id": "1573376259772129280",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blep-1.gif"
     },
@@ -107,7 +117,8 @@
       "description": "Blep-2",
       "emoji": {
         "name": "stamp_blep_2",
-        "id": "1573376262976708688"
+        "id": "1573376262976708688",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blep-2.gif"
     },
@@ -117,7 +128,8 @@
       "description": "Blep-3",
       "emoji": {
         "name": "stamp_blep_3",
-        "id": "1573376268668502198"
+        "id": "1573376268668502198",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blep-3.gif"
     },
@@ -127,7 +139,8 @@
       "description": "Blep-4",
       "emoji": {
         "name": "stamp_blep_4",
-        "id": "1573376272174940361"
+        "id": "1573376272174940361",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blep-4.gif"
     },
@@ -137,7 +150,8 @@
       "description": "Blink-1",
       "emoji": {
         "name": "stamp_blink_1",
-        "id": "1573376276700332163"
+        "id": "1573376276700332163",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blink-1.gif"
     },
@@ -147,7 +161,8 @@
       "description": "BlowNose",
       "emoji": {
         "name": "stamp_blownose",
-        "id": "1573376281419186307"
+        "id": "1573376281419186307",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/BlowNose.gif"
     },
@@ -157,7 +172,8 @@
       "description": "Blushing-1",
       "emoji": {
         "name": "stamp_blushing_1",
-        "id": "1573376286082998334"
+        "id": "1573376286082998334",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blushing-1.gif"
     },
@@ -167,7 +183,8 @@
       "description": "Blushing-2",
       "emoji": {
         "name": "stamp_blushing_2",
-        "id": "1573376290478883017"
+        "id": "1573376290478883017",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Blushing-2.gif"
     },
@@ -177,7 +194,8 @@
       "description": "Bongo-Frame",
       "emoji": {
         "name": "stamp_bongo_frame",
-        "id": "1573376294542909620"
+        "id": "1573376294542909620",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bongo-Frame.gif"
     },
@@ -187,7 +205,8 @@
       "description": "Bongo-FrameLeft",
       "emoji": {
         "name": "stamp_bongo_frameleft",
-        "id": "1573376298829750412"
+        "id": "1573376298829750412",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bongo-FrameLeft.gif"
     },
@@ -197,7 +216,8 @@
       "description": "Bongo-FrameRight",
       "emoji": {
         "name": "stamp_bongo_frameright",
-        "id": "1573376302835175604"
+        "id": "1573376302835175604",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bongo-FrameRight.gif"
     },
@@ -207,7 +227,8 @@
       "description": "Bongo-Smooth",
       "emoji": {
         "name": "stamp_bongo_smooth",
-        "id": "1573376307369087119"
+        "id": "1573376307369087119",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bongo-Smooth.gif"
     },
@@ -217,7 +238,8 @@
       "description": "Bonk",
       "emoji": {
         "name": "stamp_bonk",
-        "id": "1573376311575969884"
+        "id": "1573376311575969884",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bonk.gif"
     },
@@ -227,7 +249,8 @@
       "description": "Book-Blush",
       "emoji": {
         "name": "stamp_book_blush",
-        "id": "1573376317120839702"
+        "id": "1573376317120839702",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Book-Blush.gif"
     },
@@ -237,7 +260,8 @@
       "description": "Book-Read",
       "emoji": {
         "name": "stamp_book_read",
-        "id": "1573376324658004040"
+        "id": "1573376324658004040",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Book-Read.gif"
     },
@@ -247,7 +271,8 @@
       "description": "Boop",
       "emoji": {
         "name": "stamp_boop",
-        "id": "1573376331138474235"
+        "id": "1573376331138474235",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Boop.gif"
     },
@@ -256,7 +281,9 @@
       "label": "バグ",
       "description": "Bug",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_bug",
+        "id": "1573385860886433892",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Bug.gif"
     },
@@ -265,7 +292,9 @@
       "label": "ボタン・パンチ",
       "description": "Button-Punch",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_button_punch",
+        "id": "1573385864594202774",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Button-Punch.gif"
     },
@@ -274,7 +303,9 @@
       "label": "ボタン",
       "description": "Button",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_button",
+        "id": "1573385868029329429",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Button.gif"
     },
@@ -283,7 +314,9 @@
       "label": "ケーキ",
       "description": "Cake",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_cake",
+        "id": "1573385872445804627",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Cake.gif"
     },
@@ -292,7 +325,9 @@
       "label": "カード・スワイプ",
       "description": "CardSwipe",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_cardswipe",
+        "id": "1573385876925317151",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/CardSwipe.gif"
     },
@@ -301,7 +336,9 @@
       "label": "捕まえた・スマホ",
       "description": "Caught-Phone",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_caught_phone",
+        "id": "1573385882310807712",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Caught-Phone.gif"
     },
@@ -310,7 +347,9 @@
       "label": "捕まえた・動画・カメラ",
       "description": "Caught-VideoCamera",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_caught_videocamera",
+        "id": "1573385886748508241",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Caught-VideoCamera.gif"
     },
@@ -319,7 +358,9 @@
       "label": "大釜・魔法・1",
       "description": "Cauldron-Magic1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_cauldron_magic1",
+        "id": "1573385891316240524",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Cauldron-Magic1.gif"
     },
@@ -328,7 +369,9 @@
       "label": "大釜・魔法・2",
       "description": "Cauldron-Magic2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_cauldron_magic2",
+        "id": "1573385894889529407",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Cauldron-Magic2.gif"
     },
@@ -337,7 +380,9 @@
       "label": "大釜・かき混ぜる・1",
       "description": "Cauldron-Stir1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_cauldron_stir1",
+        "id": "1573385898429653165",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Cauldron-Stir1.gif"
     },
@@ -346,7 +391,9 @@
       "label": "大釜・かき混ぜる・2",
       "description": "Cauldron-Stir2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_cauldron_stir2",
+        "id": "1573385902103859341",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Cauldron-Stir2.gif"
     },
@@ -355,7 +402,9 @@
       "label": "お祝い",
       "description": "Celebration",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_celebration",
+        "id": "1573385906239443014",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Celebration.gif"
     },
@@ -364,7 +413,9 @@
       "label": "ほっぺ・つまむ",
       "description": "CheekSqueeze",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_cheeksqueeze",
+        "id": "1573385909934629026",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/CheekSqueeze.gif"
     },
@@ -373,7 +424,9 @@
       "label": "応援",
       "description": "Cheer",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_cheer",
+        "id": "1573385914296565895",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Cheer.gif"
     },
@@ -382,7 +435,9 @@
       "label": "乾杯",
       "description": "Cheers",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_cheers",
+        "id": "1573385919262756945",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Cheers.gif"
     },
@@ -391,7 +446,9 @@
       "label": "チーズ・びんた",
       "description": "CheeseSlap",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_cheeseslap",
+        "id": "1573385924069294133",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/CheeseSlap.gif"
     },
@@ -400,7 +457,9 @@
       "label": "ピエロ・1",
       "description": "Clown-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_clown_1",
+        "id": "1573385929148604587",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Clown-1.gif"
     },
@@ -409,7 +468,9 @@
       "label": "ピエロ・2",
       "description": "Clown-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_clown_2",
+        "id": "1573385935159165029",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Clown-2.gif"
     },
@@ -418,7 +479,9 @@
       "label": "コーラ・振る",
       "description": "CokeShake",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_cokeshake",
+        "id": "1573385938845835435",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/CokeShake.gif"
     },
@@ -427,7 +490,9 @@
       "label": "コピウム",
       "description": "Copium",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_copium",
+        "id": "1573385944139038732",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Copium.gif"
     },
@@ -436,7 +501,9 @@
       "label": "バール・1",
       "description": "Crowbar-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_crowbar_1",
+        "id": "1573385948408844331",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Crowbar-1.gif"
     },
@@ -445,7 +512,9 @@
       "label": "バール・2",
       "description": "Crowbar-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_crowbar_2",
+        "id": "1573385953022582985",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Crowbar-2.gif"
     },
@@ -454,7 +523,9 @@
       "label": "バール・3",
       "description": "Crowbar-3",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_crowbar_3",
+        "id": "1573385957359751274",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Crowbar-3.gif"
     },
@@ -463,7 +534,9 @@
       "label": "泣く・1",
       "description": "Cry-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_cry_1",
+        "id": "1573385963101757581",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Cry-1.gif"
     },
@@ -472,7 +545,9 @@
       "label": "泣く・2",
       "description": "Cry-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_cry_2",
+        "id": "1573385968604553287",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Cry-2.gif"
     },
@@ -481,7 +556,9 @@
       "label": "泣く・3",
       "description": "Cry-3",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_cry_3",
+        "id": "1573385973847302274",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Cry-3.gif"
     },
@@ -490,7 +567,9 @@
       "label": "切る・はさみ",
       "description": "Cut-Scissors",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_cut_scissors",
+        "id": "1573385978067025942",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Cut-Scissors.gif"
     },
@@ -499,7 +578,9 @@
       "label": "踊る・1",
       "description": "Dance-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_dance_1",
+        "id": "1573385983662227511",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dance-1.gif"
     },
@@ -508,7 +589,9 @@
       "label": "踊る・キャラメルダンセン",
       "description": "Dance-Caramelldansen",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_dance_caramelldansen",
+        "id": "1573385988078702763",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dance-Caramelldansen.gif"
     },
@@ -517,7 +600,9 @@
       "label": "踊る・ヘルテイカー",
       "description": "Dance-Helltaker",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_dance_helltaker",
+        "id": "1573385992084259069",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dance-Helltaker.gif"
     },
@@ -526,7 +611,9 @@
       "label": "踊る・残量わずか・コルチゾール",
       "description": "Dance-LowCortisol",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_dance_lowcortisol",
+        "id": "1573385996408725545",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dance-LowCortisol.gif"
     },
@@ -535,7 +622,9 @@
       "label": "踊る・スキューバ",
       "description": "Dance-Scuba",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_dance_scuba",
+        "id": "1573386000498036901",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dance-Scuba.gif"
     },
@@ -544,7 +633,9 @@
       "label": "死亡",
       "description": "Dead",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_dead",
+        "id": "1573386004402806795",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dead.gif"
     },
@@ -553,7 +644,9 @@
       "label": "めまい",
       "description": "Dizzy",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_dizzy",
+        "id": "1573386009390088312",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dizzy.gif"
     },
@@ -562,7 +655,9 @@
       "label": "描く・怒る",
       "description": "Draw-Angry",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_draw_angry",
+        "id": "1573386012355199116",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Draw-Angry.gif"
     },
@@ -571,7 +666,9 @@
       "label": "描く・通常",
       "description": "Draw-Normal",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_draw_normal",
+        "id": "1573386015966629968",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Draw-Normal.gif"
     },
@@ -580,7 +677,9 @@
       "label": "描く・疲れた",
       "description": "Draw-Tired",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_draw_tired",
+        "id": "1573386021016567860",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Draw-Tired.gif"
     },
@@ -589,7 +688,9 @@
       "label": "飲む・飲み物・カップ",
       "description": "Drink-BeverageCup",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_drink_beveragecup",
+        "id": "1573386024653164604",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Drink-BeverageCup.gif"
     },
@@ -598,7 +699,9 @@
       "label": "飲む・エネルギー・飲む・1",
       "description": "Drink-EnergyDrink1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_drink_energydrink1",
+        "id": "1573386028884951070",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Drink-EnergyDrink1.gif"
     },
@@ -607,7 +710,9 @@
       "label": "飲む・エネルギー・飲む・2",
       "description": "Drink-EnergyDrink2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_drink_energydrink2",
+        "id": "1573386033607876629",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Drink-EnergyDrink2.gif"
     },
@@ -616,7 +721,9 @@
       "label": "運転",
       "description": "Drive",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_drive",
+        "id": "1573386037487599687",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Drive.gif"
     },
@@ -625,7 +732,9 @@
       "label": "よだれ・箸",
       "description": "Drooling-Chopstick",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_drooling_chopstick",
+        "id": "1573386041061146789",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Drooling-Chopstick.gif"
     },
@@ -634,7 +743,9 @@
       "label": "よだれ・フォーク・ナイフ",
       "description": "Drooling-ForkKnife",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_drooling_forkknife",
+        "id": "1573386044986892380",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Drooling-ForkKnife.gif"
     },
@@ -643,7 +754,9 @@
       "label": "おバカ顔・1",
       "description": "Dum-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_dum_1",
+        "id": "1573386049747423374",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dum-1.gif"
     },
@@ -652,7 +765,9 @@
       "label": "おバカ顔・2",
       "description": "Dum-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_dum_2",
+        "id": "1573386054071877663",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dum-2.gif"
     },
@@ -661,7 +776,9 @@
       "label": "おバカ顔・3",
       "description": "Dum-3",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_dum_3",
+        "id": "1573386058740273262",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dum-3.gif"
     },
@@ -670,7 +787,9 @@
       "label": "おバカ顔・ステッカー・1",
       "description": "Dum-Sticker-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_dum_sticker_1",
+        "id": "1573386066981822494",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dum-Sticker-1.gif"
     },
@@ -679,7 +798,9 @@
       "label": "おバカ顔・ステッカー・2",
       "description": "Dum-Sticker-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_dum_sticker_2",
+        "id": "1573386071847211131",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dum-Sticker-2.gif"
     },
@@ -688,7 +809,9 @@
       "label": "おバカ顔・ステッカー・3",
       "description": "Dum-Sticker-3",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_dum_sticker_3",
+        "id": "1573386076712865863",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Dum-Sticker-3.gif"
     },
@@ -697,7 +820,9 @@
       "label": "イースター",
       "description": "Easter",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_easter",
+        "id": "1573386082421313567",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Easter.gif"
     },
@@ -706,7 +831,9 @@
       "label": "食べる・ドーナツ",
       "description": "Eat-Donut",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_eat_donut",
+        "id": "1573386090969309235",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Eat-Donut.gif"
     },
@@ -715,7 +842,9 @@
       "label": "食べる・ポップコーン",
       "description": "Eat-Popcorn",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_eat_popcorn",
+        "id": "1573386095239106660",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Eat-Popcorn.gif"
     },
@@ -724,7 +853,9 @@
       "label": "食べる・スイカ",
       "description": "Eat-Watermelon",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_eat_watermelon",
+        "id": "1573386098149822598",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Eat-Watermelon.gif"
     },
@@ -733,7 +864,9 @@
       "label": "電気・扇風機・1",
       "description": "ElectricFan-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_electricfan_1",
+        "id": "1573386101912113205",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ElectricFan-1.gif"
     },
@@ -742,7 +875,9 @@
       "label": "電気・扇風機・2",
       "description": "ElectricFan-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_electricfan_2",
+        "id": "1573386106286776442",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ElectricFan-2.gif"
     },
@@ -751,7 +886,9 @@
       "label": "びっくり",
       "description": "Exclamation",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_exclamation",
+        "id": "1573386110371889192",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Exclamation.gif"
     },
@@ -760,7 +897,9 @@
       "label": "炎・1",
       "description": "Fire-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_fire_1",
+        "id": "1573386114675511510",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Fire-1.gif"
     },
@@ -769,7 +908,9 @@
       "label": "炎・2",
       "description": "Fire-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_fire_2",
+        "id": "1573386119507087480",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Fire-2.gif"
     },
@@ -778,7 +919,9 @@
       "label": "折りたたみ・扇子",
       "description": "FoldingFans",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_foldingfans",
+        "id": "1573386124011896943",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/FoldingFans.gif"
     },
@@ -787,7 +930,9 @@
       "label": "ゲーム",
       "description": "Game",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_game",
+        "id": "1573386127539445920",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Game.gif"
     },
@@ -796,7 +941,9 @@
       "label": "受ける・攻撃・ビッツ",
       "description": "GetHit-Bits",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_gethit_bits",
+        "id": "1573386130588700703",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/GetHit-Bits.gif"
     },
@@ -805,7 +952,9 @@
       "label": "受ける・攻撃・コイン",
       "description": "GetHit-Coin",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_gethit_coin",
+        "id": "1573386134724018246",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/GetHit-Coin.gif"
     },
@@ -814,7 +963,9 @@
       "label": "受ける・攻撃・カスタム",
       "description": "GetHit-Custom",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_gethit_custom",
+        "id": "1573386140382138599",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/GetHit-Custom.gif"
     },
@@ -823,7 +974,9 @@
       "label": "受ける・攻撃・ハート",
       "description": "GetHit-Heart",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_gethit_heart",
+        "id": "1573386144505401586",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/GetHit-Heart.gif"
     },
@@ -832,7 +985,9 @@
       "label": "受ける・攻撃・スリッパ",
       "description": "GetHit-Slipper",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_gethit_slipper",
+        "id": "1573386149517328424",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/GetHit-Slipper.gif"
     },
@@ -841,7 +996,9 @@
       "label": "ギフト・1",
       "description": "Gift-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_gift_1",
+        "id": "1573386155058266112",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Gift-1.gif"
     },
@@ -850,7 +1007,9 @@
       "label": "ギフト・2",
       "description": "Gift-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_gift_2",
+        "id": "1573386159776600144",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Gift-2.gif"
     },
@@ -859,7 +1018,9 @@
       "label": "ギフト・3",
       "description": "Gift-3",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_gift_3",
+        "id": "1573386164252057812",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Gift-3.gif"
     },
@@ -868,7 +1029,9 @@
       "label": "あいさつ・1",
       "description": "Greeting-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_greeting_1",
+        "id": "1573386171537694790",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Greeting-1.gif"
     },
@@ -877,7 +1040,9 @@
       "label": "あいさつ・2",
       "description": "Greeting-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_greeting_2",
+        "id": "1573386177250197767",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Greeting-2.gif"
     },
@@ -886,7 +1051,9 @@
       "label": "ギター",
       "description": "Guitar",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_guitar",
+        "id": "1573386182027640933",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Guitar.gif"
     },
@@ -895,7 +1062,9 @@
       "label": "銃・引き金・嬉しい",
       "description": "Gun-TriggerHappy",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_gun_triggerhappy",
+        "id": "1573386188323295293",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Gun-TriggerHappy.gif"
     },
@@ -904,7 +1073,9 @@
       "label": "頭・うなずく",
       "description": "Head-Nod",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_head_nod",
+        "id": "1573386191493926973",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Head-Nod.gif"
     },
@@ -913,7 +1084,9 @@
       "label": "頭・振る",
       "description": "Head-Shake",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_head_shake",
+        "id": "1573386195298422954",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Head-Shake.gif"
     },
@@ -922,7 +1095,9 @@
       "label": "痛い",
       "description": "Hurt",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_hurt",
+        "id": "1573386198833954957",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Hurt.gif"
     },
@@ -931,7 +1106,9 @@
       "label": "水分補給",
       "description": "Hydrate",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_hydrate",
+        "id": "1573386202042736724",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Hydrate.gif"
     },
@@ -940,7 +1117,9 @@
       "label": "催眠",
       "description": "Hypnosis",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_hypnosis",
+        "id": "1573386207532949654",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Hypnosis.gif"
     },
@@ -949,7 +1128,9 @@
       "label": "ひらめき",
       "description": "Idea",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_idea",
+        "id": "1573386211911803091",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Idea.gif"
     },
@@ -958,7 +1139,9 @@
       "label": "牢屋・1",
       "description": "Jail-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_jail_1",
+        "id": "1573386216261419340",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Jail-1.gif"
     },
@@ -967,7 +1150,9 @@
       "label": "牢屋・2",
       "description": "Jail-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_jail_2",
+        "id": "1573386219373469856",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Jail-2.gif"
     },
@@ -976,7 +1161,9 @@
       "label": "ナイフ・1",
       "description": "Knife-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_knife_1",
+        "id": "1573386223089745920",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Knife-1.gif"
     },
@@ -985,7 +1172,9 @@
       "label": "ナイフ・2",
       "description": "Knife-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_knife_2",
+        "id": "1573386227535581266",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Knife-2.gif"
     },
@@ -994,7 +1183,9 @@
       "label": "笑う・点",
       "description": "Laugh-Point",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_laugh_point",
+        "id": "1573386232983982160",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Laugh-Point.gif"
     },
@@ -1003,7 +1194,9 @@
       "label": "笑う",
       "description": "Laugh",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_laugh",
+        "id": "1573386236683485397",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Laugh.gif"
     },
@@ -1012,7 +1205,9 @@
       "label": "なめる・アイス・クリーム",
       "description": "Lick-IceCream",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_lick_icecream",
+        "id": "1573386242035290153",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Lick-IceCream.gif"
     },
@@ -1021,7 +1216,9 @@
       "label": "なめる・アイスキャンディー",
       "description": "Lick-Popsicle",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_lick_popsicle",
+        "id": "1573386246263152791",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Lick-Popsicle.gif"
     },
@@ -1030,7 +1227,9 @@
       "label": "なめる",
       "description": "Lick",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_lick",
+        "id": "1573386250755252276",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Lick.gif"
     },
@@ -1039,7 +1238,9 @@
       "label": "ペンライト・1",
       "description": "Lightstick-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_lightstick_1",
+        "id": "1573386255339880478",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Lightstick-1.gif"
     },
@@ -1048,7 +1249,9 @@
       "label": "ペンライト・2",
       "description": "Lightstick-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_lightstick_2",
+        "id": "1573386260259803216",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Lightstick-2.gif"
     },
@@ -1057,7 +1260,9 @@
       "label": "読み込み中・カップ",
       "description": "Loading-Cup",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_loading_cup",
+        "id": "1573386269675884614",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Loading-Cup.gif"
     },
@@ -1066,7 +1271,9 @@
       "label": "読み込み中・マグカップ",
       "description": "Loading-Mug",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_loading_mug",
+        "id": "1573386278362292336",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Loading-Mug.gif"
     },
@@ -1075,7 +1282,9 @@
       "label": "読み込み中・寝る",
       "description": "Loading-Sleep",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_loading_sleep",
+        "id": "1573386287220658197",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Loading-Sleep.gif"
     },
@@ -1084,7 +1293,9 @@
       "label": "愛・手紙",
       "description": "LoveLetter",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_loveletter",
+        "id": "1573386291855237264",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/LoveLetter.gif"
     },
@@ -1093,7 +1304,9 @@
       "label": "潜む・1",
       "description": "Lurk-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_lurk_1",
+        "id": "1573386295349088438",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Lurk-1.gif"
     },
@@ -1102,7 +1315,9 @@
       "label": "潜む・2",
       "description": "Lurk-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_lurk_2",
+        "id": "1573386300042772520",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Lurk-2.gif"
     },
@@ -1111,7 +1326,9 @@
       "label": "好き・1",
       "description": "Luv-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_luv_1",
+        "id": "1573386304215973948",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Luv-1.gif"
     },
@@ -1120,7 +1337,9 @@
       "label": "好き・2",
       "description": "Luv-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_luv_2",
+        "id": "1573386308867330220",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Luv-2.gif"
     },
@@ -1129,7 +1348,9 @@
       "label": "好き・3",
       "description": "Luv-3",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_luv_3",
+        "id": "1573386314307477547",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Luv-3.gif"
     },
@@ -1138,7 +1359,9 @@
       "label": "魔法",
       "description": "Magic",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_magic",
+        "id": "1573386318665359494",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Magic.gif"
     },
@@ -1147,7 +1370,9 @@
       "label": "メガホン",
       "description": "Megaphone",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_megaphone",
+        "id": "1573386323442540574",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Megaphone.gif"
     },
@@ -1156,7 +1381,9 @@
       "label": "お金",
       "description": "Money",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_money",
+        "id": "1573386327242575902",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Money.gif"
     },
@@ -1165,7 +1392,9 @@
       "label": "音楽・1",
       "description": "Music-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_music_1",
+        "id": "1573386331424432320",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Music-1.gif"
     },
@@ -1174,7 +1403,9 @@
       "label": "音楽・2",
       "description": "Music-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_music_2",
+        "id": "1573386335429992458",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Music-2.gif"
     },
@@ -1183,7 +1414,9 @@
       "label": "音楽・3",
       "description": "Music-3",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_music_3",
+        "id": "1573386340240728134",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Music-3.gif"
     },
@@ -1192,7 +1425,9 @@
       "label": "ミュート・1",
       "description": "Mute-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_mute_1",
+        "id": "1573386345009651762",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Mute-1.gif"
     },
@@ -1201,7 +1436,9 @@
       "label": "ミュート・2",
       "description": "Mute-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_mute_2",
+        "id": "1573386351624196268",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Mute-2.gif"
     },
@@ -1210,7 +1447,9 @@
       "label": "必要・食べ物",
       "description": "NeedFood",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_needfood",
+        "id": "1573386357437370428",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/NeedFood.gif"
     },
@@ -1219,7 +1458,9 @@
       "label": "オタク・1",
       "description": "Nerd-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_nerd_1",
+        "id": "1573386371341623387",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Nerd-1.gif"
     },
@@ -1228,7 +1469,9 @@
       "label": "オタク・2",
       "description": "Nerd-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_nerd_2",
+        "id": "1573386375271555224",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Nerd-2.gif"
     },
@@ -1237,7 +1480,9 @@
       "label": "オタク・3",
       "description": "Nerd-3",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_nerd_3",
+        "id": "1573386379637817435",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Nerd-3.gif"
     },
@@ -1246,7 +1491,9 @@
       "label": "緊張・1",
       "description": "Nervous-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_nervous_1",
+        "id": "1573386384046161960",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Nervous-1.gif"
     },
@@ -1255,7 +1502,9 @@
       "label": "緊張・2",
       "description": "Nervous-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_nervous_2",
+        "id": "1573386388013842444",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Nervous-2.gif"
     },
@@ -1264,7 +1513,9 @@
       "label": "緊張・3",
       "description": "Nervous-3",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_nervous_3",
+        "id": "1573386392556535961",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Nervous-3.gif"
     },
@@ -1273,7 +1524,9 @@
       "label": "了解・1",
       "description": "Noted-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_noted_1",
+        "id": "1573386397379854507",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Noted-1.gif"
     },
@@ -1282,7 +1535,9 @@
       "label": "了解・2",
       "description": "Noted-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_noted_2",
+        "id": "1573386400903204945",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Noted-2.gif"
     },
@@ -1291,7 +1546,9 @@
       "label": "PNGチューバー・待機",
       "description": "PNGTuber-Idle",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_pngtuber_idle",
+        "id": "1573386404992393407",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/PNGTuber-Idle.gif"
     },
@@ -1300,7 +1557,9 @@
       "label": "PNGチューバー・待機・2",
       "description": "PNGTuber-Idle2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_pngtuber_idle2",
+        "id": "1573386408800944212",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/PNGTuber-Idle2.gif"
     },
@@ -1309,7 +1568,9 @@
       "label": "PNGチューバー・読み込み中",
       "description": "PNGTuber-Loading",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_pngtuber_loading",
+        "id": "1573386412600860792",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/PNGTuber-Loading.gif"
     },
@@ -1318,7 +1579,9 @@
       "label": "PNGチューバー・話す",
       "description": "PNGTuber-Talk",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_pngtuber_talk",
+        "id": "1573386416124207274",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/PNGTuber-Talk.gif"
     },
@@ -1327,7 +1590,9 @@
       "label": "PNGチューバー・話す・2",
       "description": "PNGTuber-Talk2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_pngtuber_talk2",
+        "id": "1573386419391565844",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/PNGTuber-Talk2.gif"
     },
@@ -1336,7 +1601,9 @@
       "label": "PNGチューバー・おしゃべり",
       "description": "PNGTuber-Yap",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_pngtuber_yap",
+        "id": "1573386422931693699",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/PNGTuber-Yap.gif"
     },
@@ -1345,7 +1612,9 @@
       "label": "有料・休憩・簡単・モード",
       "description": "PaidBreak-EasyMode",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_paidbreak_easymode",
+        "id": "1573386427188781158",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/PaidBreak-EasyMode.gif"
     },
@@ -1354,7 +1623,9 @@
       "label": "有料・休憩・難しい・モード",
       "description": "PaidBreak-HardMode",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_paidbreak_hardmode",
+        "id": "1573386432230461621",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/PaidBreak-HardMode.gif"
     },
@@ -1363,7 +1634,9 @@
       "label": "なでる・2",
       "description": "Pat-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_pat_2",
+        "id": "1573386435392708763",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Pat-2.gif"
     },
@@ -1372,7 +1645,9 @@
       "label": "なでる",
       "description": "Pat",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_pat",
+        "id": "1573386439683473509",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Pat.gif"
     },
@@ -1381,7 +1656,9 @@
       "label": "枕・なめる",
       "description": "Pillow-Lick",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_pillow_lick",
+        "id": "1573386444238618714",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Pillow-Lick.gif"
     },
@@ -1390,7 +1667,9 @@
       "label": "枕・こする",
       "description": "Pillow-Rub",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_pillow_rub",
+        "id": "1573386447870763040",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Pillow-Rub.gif"
     },
@@ -1399,7 +1678,9 @@
       "label": "枕・こする・2",
       "description": "Pillow-Rub2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_pillow_rub2",
+        "id": "1573386452732088411",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Pillow-Rub2.gif"
     },
@@ -1408,7 +1689,9 @@
       "label": "点",
       "description": "Point",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_point",
+        "id": "1573386457375187125",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Point.gif"
     },
@@ -1417,7 +1700,9 @@
       "label": "ポップキャット・フレーム",
       "description": "Popcat-Frame",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_popcat_frame",
+        "id": "1573386461879734355",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Popcat-Frame.gif"
     },
@@ -1426,7 +1711,9 @@
       "label": "ポップキャット・なめらか",
       "description": "Popcat-Smooth",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_popcat_smooth",
+        "id": "1573386465562333234",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Popcat-Smooth.gif"
     },
@@ -1435,7 +1722,9 @@
       "label": "押す",
       "description": "Press",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_press",
+        "id": "1573386470629183691",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Press.gif"
     },
@@ -1444,7 +1733,9 @@
       "label": "かぼちゃ",
       "description": "Pumpkin",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_pumpkin",
+        "id": "1573386474781417654",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Pumpkin.gif"
     },
@@ -1453,7 +1744,9 @@
       "label": "疑問",
       "description": "Question",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_question",
+        "id": "1573386480372420751",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Question.gif"
     },
@@ -1462,7 +1755,9 @@
       "label": "襲撃・1",
       "description": "Raid-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_raid_1",
+        "id": "1573386485409906909",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Raid-1.gif"
     },
@@ -1471,7 +1766,9 @@
       "label": "襲撃・2",
       "description": "Raid-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_raid_2",
+        "id": "1573386490363252796",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Raid-2.gif"
     },
@@ -1480,7 +1777,9 @@
       "label": "赤・袋・2",
       "description": "RedPacket-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_redpacket_2",
+        "id": "1573386495279235192",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/RedPacket-2.gif"
     },
@@ -1489,7 +1788,9 @@
       "label": "ご祝儀袋・1",
       "description": "Redpacket-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_redpacket_1",
+        "id": "1573386499259506848",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Redpacket-1.gif"
     },
@@ -1498,7 +1799,9 @@
       "label": "反転",
       "description": "Reverse",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_reverse",
+        "id": "1573386504011780146",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Reverse.gif"
     },
@@ -1507,7 +1810,9 @@
       "label": "バラ",
       "description": "Rose",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_rose",
+        "id": "1573386508356817089",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Rose.gif"
     },
@@ -1516,7 +1821,9 @@
       "label": "こする・1",
       "description": "Rub-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_rub_1",
+        "id": "1573386512467366030",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Rub-1.gif"
     },
@@ -1525,7 +1832,9 @@
       "label": "怖い・1",
       "description": "Scared-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_scared_1",
+        "id": "1573386516061880451",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Scared-1.gif"
     },
@@ -1534,7 +1843,9 @@
       "label": "怖い・2",
       "description": "Scared-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_scared_2",
+        "id": "1573386522709721240",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Scared-2.gif"
     },
@@ -1543,7 +1854,9 @@
       "label": "怖い・十字",
       "description": "Scared-Cross",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_scared_cross",
+        "id": "1573386530586628137",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Scared-Cross.gif"
     },
@@ -1552,7 +1865,9 @@
       "label": "スコア・0・点",
       "description": "Score-0Point",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_score_0point",
+        "id": "1573386537121480816",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Score-0Point.gif"
     },
@@ -1561,7 +1876,9 @@
       "label": "スコア・10・点",
       "description": "Score-10Point",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_score_10point",
+        "id": "1573386544255860947",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Score-10Point.gif"
     },
@@ -1570,7 +1887,9 @@
       "label": "恥ずかしい・1",
       "description": "Shy-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_shy_1",
+        "id": "1573386549914247270",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Shy-1.gif"
     },
@@ -1579,7 +1898,9 @@
       "label": "恥ずかしい・2",
       "description": "Shy-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_shy_2",
+        "id": "1573386554167267490",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Shy-2.gif"
     },
@@ -1588,7 +1909,9 @@
       "label": "恥ずかしい・3",
       "description": "Shy-3",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_shy_3",
+        "id": "1573386558923345950",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Shy-3.gif"
     },
@@ -1597,7 +1920,9 @@
       "label": "具合が悪い・ベッド",
       "description": "Sick-bed",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_sick_bed",
+        "id": "1573386575826518151",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sick-bed.gif"
     },
@@ -1606,7 +1931,9 @@
       "label": "具合が悪い",
       "description": "Sick",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_sick",
+        "id": "1573386582738608221",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sick.gif"
     },
@@ -1615,7 +1942,9 @@
       "label": "歌う",
       "description": "Sing",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_sing",
+        "id": "1573386587281162442",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sing.gif"
     },
@@ -1624,7 +1953,9 @@
       "label": "六・七・おバカ顔",
       "description": "SixSeven-Dum",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_sixseven_dum",
+        "id": "1573386591169155113",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/SixSeven-Dum.gif"
     },
@@ -1633,7 +1964,9 @@
       "label": "六・七",
       "description": "SixSeven",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_sixseven",
+        "id": "1573386597079064738",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/SixSeven.gif"
     },
@@ -1642,7 +1975,9 @@
       "label": "寝る・通常",
       "description": "Sleep-Normal",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_sleep_normal",
+        "id": "1573386602607157338",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sleep-Normal.gif"
     },
@@ -1651,7 +1986,9 @@
       "label": "寝る・準備中・段階・1",
       "description": "Sleep-Preparing-Stage1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_sleep_preparing_stage1",
+        "id": "1573386607678193674",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sleep-Preparing-Stage1.gif"
     },
@@ -1660,7 +1997,9 @@
       "label": "寝る・準備中・段階・2",
       "description": "Sleep-Preparing-Stage2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_sleep_preparing_stage2",
+        "id": "1573386612987920494",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sleep-Preparing-Stage2.gif"
     },
@@ -1669,7 +2008,9 @@
       "label": "寝る・ダブルユー",
       "description": "Sleep-UU",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_sleep_uu",
+        "id": "1573386619593957446",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sleep-UU.gif"
     },
@@ -1678,7 +2019,9 @@
       "label": "スリッパ・1",
       "description": "Slipper-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_slipper_1",
+        "id": "1573386623167504505",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Slipper-1.gif"
     },
@@ -1687,7 +2030,9 @@
       "label": "スリッパ・2",
       "description": "Slipper-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_slipper_2",
+        "id": "1573386629047918592",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Slipper-2.gif"
     },
@@ -1696,7 +2041,9 @@
       "label": "キラキラ・1",
       "description": "Sparkling-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_sparkling_1",
+        "id": "1573386636996120707",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sparkling-1.gif"
     },
@@ -1705,7 +2052,9 @@
       "label": "キラキラ・2",
       "description": "Sparkling-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_sparkling_2",
+        "id": "1573386640972451880",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sparkling-2.gif"
     },
@@ -1714,7 +2063,9 @@
       "label": "キラキラ・3",
       "description": "Sparkling-3",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_sparkling_3",
+        "id": "1573386647456850035",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sparkling-3.gif"
     },
@@ -1723,7 +2074,9 @@
       "label": "スプレー",
       "description": "Spray",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_spray",
+        "id": "1573386652402065498",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Spray.gif"
     },
@@ -1732,7 +2085,9 @@
       "label": "止まれ",
       "description": "Stop",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_stop",
+        "id": "1573386660874420335",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Stop.gif"
     },
@@ -1741,7 +2096,9 @@
       "label": "止まる・動作中",
       "description": "StopsWorking",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_stopsworking",
+        "id": "1573386668516311091",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/StopsWorking.gif"
     },
@@ -1750,7 +2107,9 @@
       "label": "サングラス・きらめき",
       "description": "Sunglasses-Gleam",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_sunglasses_gleam",
+        "id": "1573386674199728280",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sunglasses-Gleam.gif"
     },
@@ -1759,7 +2118,9 @@
       "label": "サングラス・ループ",
       "description": "Sunglasses-Loop",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_sunglasses_loop",
+        "id": "1573386678976909353",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sunglasses-Loop.gif"
     },
@@ -1768,7 +2129,9 @@
       "label": "サングラス・ピクセル・きらめき",
       "description": "Sunglasses-PixelGleam",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_sunglasses_pixelgleam",
+        "id": "1573386683423137812",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sunglasses-PixelGleam.gif"
     },
@@ -1777,7 +2140,9 @@
       "label": "サングラス・外す",
       "description": "Sunglasses-Remove",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_sunglasses_remove",
+        "id": "1573386687818502345",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sunglasses-Remove.gif"
     },
@@ -1786,7 +2151,9 @@
       "label": "驚く",
       "description": "Surprise",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_surprise",
+        "id": "1573386691945701518",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Surprise.gif"
     },
@@ -1795,7 +2162,9 @@
       "label": "ハエたたき",
       "description": "Swatter",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_swatter",
+        "id": "1573386696144322661",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Swatter.gif"
     },
@@ -1804,7 +2173,9 @@
       "label": "汗・拭く・1",
       "description": "Sweat-Wipe1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_sweat_wipe1",
+        "id": "1573386699965341879",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sweat-Wipe1.gif"
     },
@@ -1813,7 +2184,9 @@
       "label": "汗・拭く・2",
       "description": "Sweat-Wipe2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_sweat_wipe2",
+        "id": "1573386704931266600",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sweat-Wipe2.gif"
     },
@@ -1822,7 +2195,9 @@
       "label": "汗",
       "description": "Sweat",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_sweat",
+        "id": "1573386708798673108",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Sweat.gif"
     },
@@ -1831,7 +2206,9 @@
       "label": "タブレット",
       "description": "Tablet",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_tablet",
+        "id": "1573386712200118567",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Tablet.gif"
     },
@@ -1840,7 +2217,9 @@
       "label": "しっぽ・振る",
       "description": "TailWag",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_tailwag",
+        "id": "1573386715396055277",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/TailWag.gif"
     },
@@ -1849,7 +2228,9 @@
       "label": "持っていく・私の・お金",
       "description": "TakeMyMoney",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_takemymoney",
+        "id": "1573386719590350868",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/TakeMyMoney.gif"
     },
@@ -1858,7 +2239,9 @@
       "label": "テープ",
       "description": "Tape",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_tape",
+        "id": "1573386723923202160",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Tape.gif"
     },
@@ -1867,7 +2250,9 @@
       "label": "お茶・1",
       "description": "Tea-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_tea_1",
+        "id": "1573386728834736340",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Tea-1.gif"
     },
@@ -1876,7 +2261,9 @@
       "label": "お茶・2",
       "description": "Tea-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_tea_2",
+        "id": "1573386735348486154",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Tea-2.gif"
     },
@@ -1885,7 +2272,9 @@
       "label": "お茶・3",
       "description": "Tea-3",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_tea_3",
+        "id": "1573386740058558515",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Tea-3.gif"
     },
@@ -1894,7 +2283,9 @@
       "label": "考える・自信満々",
       "description": "Think-Confident",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_think_confident",
+        "id": "1573386744961966251",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Think-Confident.gif"
     },
@@ -1903,7 +2294,9 @@
       "label": "考える・真剣",
       "description": "Think-Serious",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_think_serious",
+        "id": "1573386749856584033",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Think-Serious.gif"
     },
@@ -1912,7 +2305,9 @@
       "label": "これ・は・大丈夫・1",
       "description": "ThisIsFine-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_thisisfine_1",
+        "id": "1573386756081061948",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ThisIsFine-1.gif"
     },
@@ -1921,7 +2316,9 @@
       "label": "これ・は・大丈夫・2",
       "description": "ThisIsFine-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_thisisfine_2",
+        "id": "1573386762439360652",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ThisIsFine-2.gif"
     },
@@ -1930,7 +2327,9 @@
       "label": "これ・は・大丈夫・3",
       "description": "ThisIsFine-3",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_thisisfine_3",
+        "id": "1573386768290414753",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ThisIsFine-3.gif"
     },
@@ -1939,7 +2338,9 @@
       "label": "これ・は・大丈夫・4",
       "description": "ThisIsFine-4",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_thisisfine_4",
+        "id": "1573386775131459654",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ThisIsFine-4.gif"
     },
@@ -1948,7 +2349,9 @@
       "label": "これ・は・大丈夫・5",
       "description": "ThisIsFine-5",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_thisisfine_5",
+        "id": "1573386780101582951",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ThisIsFine-5.gif"
     },
@@ -1957,7 +2360,9 @@
       "label": "これ・は・大丈夫・6",
       "description": "ThisIsFine-6",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_thisisfine_6",
+        "id": "1573386788519542935",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ThisIsFine-6.gif"
     },
@@ -1966,7 +2371,9 @@
       "label": "親指・下",
       "description": "ThumbDown",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_thumbdown",
+        "id": "1573386796140863713",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ThumbDown.gif"
     },
@@ -1975,7 +2382,9 @@
       "label": "親指・上",
       "description": "ThumbUp",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_thumbup",
+        "id": "1573386800129507411",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ThumbUp.gif"
     },
@@ -1984,7 +2393,9 @@
       "label": "ゴミ・箱",
       "description": "TrashBin",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_trashbin",
+        "id": "1573386803413778564",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/TrashBin.gif"
     },
@@ -1993,7 +2404,9 @@
       "label": "ゴミ・チューバー・待機",
       "description": "TrashTuber-Idle",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_trashtuber_idle",
+        "id": "1573386807708614766",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/TrashTuber-Idle.gif"
     },
@@ -2002,7 +2415,9 @@
       "label": "ゴミ・チューバー・話す",
       "description": "TrashTuber-Talk",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_trashtuber_talk",
+        "id": "1573386812607439078",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/TrashTuber-Talk.gif"
     },
@@ -2011,7 +2426,9 @@
       "label": "ゴミ・チューバー・おしゃべり",
       "description": "TrashTuber-Yap",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_trashtuber_yap",
+        "id": "1573386816520724591",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/TrashTuber-Yap.gif"
     },
@@ -2020,7 +2437,9 @@
       "label": "トロフィー・1",
       "description": "Trophy-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_trophy_1",
+        "id": "1573386821155553290",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Trophy-1.gif"
     },
@@ -2029,7 +2448,9 @@
       "label": "入力・怒る",
       "description": "Type-Angry",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_type_angry",
+        "id": "1573386825064652811",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Type-Angry.gif"
     },
@@ -2038,7 +2459,9 @@
       "label": "入力・うんざり",
       "description": "Type-Annoyed",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_type_annoyed",
+        "id": "1573386828281806963",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Type-Annoyed.gif"
     },
@@ -2047,7 +2470,9 @@
       "label": "入力・通常",
       "description": "Type-Normal",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_type_normal",
+        "id": "1573386832346091520",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Type-Normal.gif"
     },
@@ -2056,7 +2481,9 @@
       "label": "ゆらゆら・1",
       "description": "Wiggle-1",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_wiggle_1",
+        "id": "1573386836603310191",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Wiggle-1.gif"
     },
@@ -2065,7 +2492,9 @@
       "label": "ゆらゆら・2",
       "description": "Wiggle-2",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_wiggle_2",
+        "id": "1573386840788967424",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Wiggle-2.gif"
     },
@@ -2074,7 +2503,9 @@
       "label": "ウインク",
       "description": "Wink",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_wink",
+        "id": "1573386845838909625",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Wink.gif"
     },
@@ -2083,7 +2514,9 @@
       "label": "仕事・怒る",
       "description": "Work-Angry",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_work_angry",
+        "id": "1573386852550054049",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Work-Angry.gif"
     },
@@ -2092,7 +2525,9 @@
       "label": "仕事・昼寝",
       "description": "Work-Nap",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_work_nap",
+        "id": "1573386859222929519",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Work-Nap.gif"
     },
@@ -2101,7 +2536,9 @@
       "label": "仕事・通常",
       "description": "Work-Normal",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_work_normal",
+        "id": "1573386862922309695",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Work-Normal.gif"
     },
@@ -2110,7 +2547,9 @@
       "label": "仕事・疲れた",
       "description": "Work-Tired",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_work_tired",
+        "id": "1573386869884985365",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Work-Tired.gif"
     },
@@ -2119,7 +2558,9 @@
       "label": "やったー",
       "description": "Yay",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_yay",
+        "id": "1573386889824571475",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/Yay.gif"
     },
@@ -2128,7 +2569,9 @@
       "label": "いいね・アラート",
       "description": "いいね アラート",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_stamp_234",
+        "id": "1573386898989256845",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/いいね アラート.gif"
     },
@@ -2137,7 +2580,9 @@
       "label": "アラートカスタム",
       "description": "アラートカスタム",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_stamp_235",
+        "id": "1573386902961131712",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/アラートカスタム.gif"
     },
@@ -2146,7 +2591,9 @@
       "label": "ハート・アラート",
       "description": "ハート アラート",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_stamp_236",
+        "id": "1573386907482595338",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ハート アラート.gif"
     },
@@ -2155,7 +2602,9 @@
       "label": "ビッツ・アラート",
       "description": "ビッツ アラート",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_stamp_237",
+        "id": "1573386911756583102",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/ビッツ アラート.gif"
     },
@@ -2164,7 +2613,9 @@
       "label": "寄付・アラート",
       "description": "寄付 アラート",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_stamp_238",
+        "id": "1573386915787317411",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/寄付 アラート.gif"
     },
@@ -2173,7 +2624,9 @@
       "label": "星・アラート",
       "description": "星 アラート",
       "emoji": {
-        "name": "✨"
+        "name": "stamp_stamp_239",
+        "id": "1573386921370198149",
+        "animated": false
       },
       "gif": "https://raw.githubusercontent.com/ak-2302/EmoteLab/master/Export/mei_all_2026-11-21-00-42-59/星 アラート.gif"
     }
