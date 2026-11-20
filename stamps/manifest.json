@@ -3,7 +3,7 @@
   "stamps": [
     {
       "id": "angry",
-      "label": "スタンプ001",
+      "label": "怒る",
       "description": "Angry",
       "emoji": {
         "name": "stamp_angry",
@@ -13,7 +13,7 @@
     },
     {
       "id": "arrive-chopstick",
-      "label": "スタンプ002",
+      "label": "到着・箸",
       "description": "Arrive-Chopstick",
       "emoji": {
         "name": "stamp_arrive_chopstick",
@@ -23,7 +23,7 @@
     },
     {
       "id": "arrive-spoon",
-      "label": "スタンプ003",
+      "label": "到着・スプーン",
       "description": "Arrive-Spoon",
       "emoji": {
         "name": "stamp_arrive_spoon",
@@ -33,7 +33,7 @@
     },
     {
       "id": "arrive",
-      "label": "スタンプ004",
+      "label": "到着",
       "description": "Arrive",
       "emoji": {
         "name": "stamp_arrive",
@@ -43,7 +43,7 @@
     },
     {
       "id": "battery-charge",
-      "label": "スタンプ005",
+      "label": "バッテリー・充電",
       "description": "Battery-Charge",
       "emoji": {
         "name": "stamp_battery_charge",
@@ -53,7 +53,7 @@
     },
     {
       "id": "battery-low",
-      "label": "スタンプ006",
+      "label": "バッテリー・残量わずか",
       "description": "Battery-Low",
       "emoji": {
         "name": "stamp_battery_low",
@@ -63,7 +63,7 @@
     },
     {
       "id": "bell",
-      "label": "スタンプ007",
+      "label": "ベル",
       "description": "Bell",
       "emoji": {
         "name": "stamp_bell",
@@ -73,7 +73,7 @@
     },
     {
       "id": "bite-1",
-      "label": "スタンプ008",
+      "label": "噛む・1",
       "description": "Bite-1",
       "emoji": {
         "name": "stamp_bite_1",
@@ -83,7 +83,7 @@
     },
     {
       "id": "bite-2",
-      "label": "スタンプ009",
+      "label": "噛む・2",
       "description": "Bite-2",
       "emoji": {
         "name": "stamp_bite_2",
@@ -93,7 +93,7 @@
     },
     {
       "id": "blep-1",
-      "label": "スタンプ010",
+      "label": "舌を出す・1",
       "description": "Blep-1",
       "emoji": {
         "name": "stamp_blep_1",
@@ -103,7 +103,7 @@
     },
     {
       "id": "blep-2",
-      "label": "スタンプ011",
+      "label": "舌を出す・2",
       "description": "Blep-2",
       "emoji": {
         "name": "stamp_blep_2",
@@ -113,7 +113,7 @@
     },
     {
       "id": "blep-3",
-      "label": "スタンプ012",
+      "label": "舌を出す・3",
       "description": "Blep-3",
       "emoji": {
         "name": "stamp_blep_3",
@@ -123,7 +123,7 @@
     },
     {
       "id": "blep-4",
-      "label": "スタンプ013",
+      "label": "舌を出す・4",
       "description": "Blep-4",
       "emoji": {
         "name": "stamp_blep_4",
@@ -133,7 +133,7 @@
     },
     {
       "id": "blink-1",
-      "label": "スタンプ014",
+      "label": "まばたき・1",
       "description": "Blink-1",
       "emoji": {
         "name": "stamp_blink_1",
@@ -143,7 +143,7 @@
     },
     {
       "id": "blownose",
-      "label": "スタンプ015",
+      "label": "かむ・鼻",
       "description": "BlowNose",
       "emoji": {
         "name": "stamp_blownose",
@@ -153,7 +153,7 @@
     },
     {
       "id": "blushing-1",
-      "label": "スタンプ016",
+      "label": "照れる・1",
       "description": "Blushing-1",
       "emoji": {
         "name": "stamp_blushing_1",
@@ -163,7 +163,7 @@
     },
     {
       "id": "blushing-2",
-      "label": "スタンプ017",
+      "label": "照れる・2",
       "description": "Blushing-2",
       "emoji": {
         "name": "stamp_blushing_2",
@@ -173,7 +173,7 @@
     },
     {
       "id": "bongo-frame",
-      "label": "スタンプ018",
+      "label": "ボンゴ・フレーム",
       "description": "Bongo-Frame",
       "emoji": {
         "name": "stamp_bongo_frame",
@@ -183,7 +183,7 @@
     },
     {
       "id": "bongo-frameleft",
-      "label": "スタンプ019",
+      "label": "ボンゴ・フレーム・左",
       "description": "Bongo-FrameLeft",
       "emoji": {
         "name": "stamp_bongo_frameleft",
@@ -193,7 +193,7 @@
     },
     {
       "id": "bongo-frameright",
-      "label": "スタンプ020",
+      "label": "ボンゴ・フレーム・右",
       "description": "Bongo-FrameRight",
       "emoji": {
         "name": "stamp_bongo_frameright",
@@ -203,7 +203,7 @@
     },
     {
       "id": "bongo-smooth",
-      "label": "スタンプ021",
+      "label": "ボンゴ・なめらか",
       "description": "Bongo-Smooth",
       "emoji": {
         "name": "stamp_bongo_smooth",
@@ -213,7 +213,7 @@
     },
     {
       "id": "bonk",
-      "label": "スタンプ022",
+      "label": "ぽかん",
       "description": "Bonk",
       "emoji": {
         "name": "stamp_bonk",
@@ -223,7 +223,7 @@
     },
     {
       "id": "book-blush",
-      "label": "スタンプ023",
+      "label": "本・照れ",
       "description": "Book-Blush",
       "emoji": {
         "name": "stamp_book_blush",
@@ -233,7 +233,7 @@
     },
     {
       "id": "book-read",
-      "label": "スタンプ024",
+      "label": "本・読む",
       "description": "Book-Read",
       "emoji": {
         "name": "stamp_book_read",
@@ -243,7 +243,7 @@
     },
     {
       "id": "boop",
-      "label": "スタンプ025",
+      "label": "つんつん",
       "description": "Boop",
       "emoji": {
         "name": "stamp_boop",
@@ -253,7 +253,7 @@
     },
     {
       "id": "bug",
-      "label": "スタンプ026",
+      "label": "バグ",
       "description": "Bug",
       "emoji": {
         "name": "✨"
@@ -262,7 +262,7 @@
     },
     {
       "id": "button-punch",
-      "label": "スタンプ027",
+      "label": "ボタン・パンチ",
       "description": "Button-Punch",
       "emoji": {
         "name": "✨"
@@ -271,7 +271,7 @@
     },
     {
       "id": "button",
-      "label": "スタンプ028",
+      "label": "ボタン",
       "description": "Button",
       "emoji": {
         "name": "✨"
@@ -280,7 +280,7 @@
     },
     {
       "id": "cake",
-      "label": "スタンプ029",
+      "label": "ケーキ",
       "description": "Cake",
       "emoji": {
         "name": "✨"
@@ -289,7 +289,7 @@
     },
     {
       "id": "cardswipe",
-      "label": "スタンプ030",
+      "label": "カード・スワイプ",
       "description": "CardSwipe",
       "emoji": {
         "name": "✨"
@@ -298,7 +298,7 @@
     },
     {
       "id": "caught-phone",
-      "label": "スタンプ031",
+      "label": "捕まえた・スマホ",
       "description": "Caught-Phone",
       "emoji": {
         "name": "✨"
@@ -307,7 +307,7 @@
     },
     {
       "id": "caught-videocamera",
-      "label": "スタンプ032",
+      "label": "捕まえた・動画・カメラ",
       "description": "Caught-VideoCamera",
       "emoji": {
         "name": "✨"
@@ -316,7 +316,7 @@
     },
     {
       "id": "cauldron-magic1",
-      "label": "スタンプ033",
+      "label": "大釜・魔法・1",
       "description": "Cauldron-Magic1",
       "emoji": {
         "name": "✨"
@@ -325,7 +325,7 @@
     },
     {
       "id": "cauldron-magic2",
-      "label": "スタンプ034",
+      "label": "大釜・魔法・2",
       "description": "Cauldron-Magic2",
       "emoji": {
         "name": "✨"
@@ -334,7 +334,7 @@
     },
     {
       "id": "cauldron-stir1",
-      "label": "スタンプ035",
+      "label": "大釜・かき混ぜる・1",
       "description": "Cauldron-Stir1",
       "emoji": {
         "name": "✨"
@@ -343,7 +343,7 @@
     },
     {
       "id": "cauldron-stir2",
-      "label": "スタンプ036",
+      "label": "大釜・かき混ぜる・2",
       "description": "Cauldron-Stir2",
       "emoji": {
         "name": "✨"
@@ -352,7 +352,7 @@
     },
     {
       "id": "celebration",
-      "label": "スタンプ037",
+      "label": "お祝い",
       "description": "Celebration",
       "emoji": {
         "name": "✨"
@@ -361,7 +361,7 @@
     },
     {
       "id": "cheeksqueeze",
-      "label": "スタンプ038",
+      "label": "ほっぺ・つまむ",
       "description": "CheekSqueeze",
       "emoji": {
         "name": "✨"
@@ -370,7 +370,7 @@
     },
     {
       "id": "cheer",
-      "label": "スタンプ039",
+      "label": "応援",
       "description": "Cheer",
       "emoji": {
         "name": "✨"
@@ -379,7 +379,7 @@
     },
     {
       "id": "cheers",
-      "label": "スタンプ040",
+      "label": "乾杯",
       "description": "Cheers",
       "emoji": {
         "name": "✨"
@@ -388,7 +388,7 @@
     },
     {
       "id": "cheeseslap",
-      "label": "スタンプ041",
+      "label": "チーズ・びんた",
       "description": "CheeseSlap",
       "emoji": {
         "name": "✨"
@@ -397,7 +397,7 @@
     },
     {
       "id": "clown-1",
-      "label": "スタンプ042",
+      "label": "ピエロ・1",
       "description": "Clown-1",
       "emoji": {
         "name": "✨"
@@ -406,7 +406,7 @@
     },
     {
       "id": "clown-2",
-      "label": "スタンプ043",
+      "label": "ピエロ・2",
       "description": "Clown-2",
       "emoji": {
         "name": "✨"
@@ -415,7 +415,7 @@
     },
     {
       "id": "cokeshake",
-      "label": "スタンプ044",
+      "label": "コーラ・振る",
       "description": "CokeShake",
       "emoji": {
         "name": "✨"
@@ -424,7 +424,7 @@
     },
     {
       "id": "copium",
-      "label": "スタンプ045",
+      "label": "コピウム",
       "description": "Copium",
       "emoji": {
         "name": "✨"
@@ -433,7 +433,7 @@
     },
     {
       "id": "crowbar-1",
-      "label": "スタンプ046",
+      "label": "バール・1",
       "description": "Crowbar-1",
       "emoji": {
         "name": "✨"
@@ -442,7 +442,7 @@
     },
     {
       "id": "crowbar-2",
-      "label": "スタンプ047",
+      "label": "バール・2",
       "description": "Crowbar-2",
       "emoji": {
         "name": "✨"
@@ -451,7 +451,7 @@
     },
     {
       "id": "crowbar-3",
-      "label": "スタンプ048",
+      "label": "バール・3",
       "description": "Crowbar-3",
       "emoji": {
         "name": "✨"
@@ -460,7 +460,7 @@
     },
     {
       "id": "cry-1",
-      "label": "スタンプ049",
+      "label": "泣く・1",
       "description": "Cry-1",
       "emoji": {
         "name": "✨"
@@ -469,7 +469,7 @@
     },
     {
       "id": "cry-2",
-      "label": "スタンプ050",
+      "label": "泣く・2",
       "description": "Cry-2",
       "emoji": {
         "name": "✨"
@@ -478,7 +478,7 @@
     },
     {
       "id": "cry-3",
-      "label": "スタンプ051",
+      "label": "泣く・3",
       "description": "Cry-3",
       "emoji": {
         "name": "✨"
@@ -487,7 +487,7 @@
     },
     {
       "id": "cut-scissors",
-      "label": "スタンプ052",
+      "label": "切る・はさみ",
       "description": "Cut-Scissors",
       "emoji": {
         "name": "✨"
@@ -496,7 +496,7 @@
     },
     {
       "id": "dance-1",
-      "label": "スタンプ053",
+      "label": "踊る・1",
       "description": "Dance-1",
       "emoji": {
         "name": "✨"
@@ -505,7 +505,7 @@
     },
     {
       "id": "dance-caramelldansen",
-      "label": "スタンプ054",
+      "label": "踊る・キャラメルダンセン",
       "description": "Dance-Caramelldansen",
       "emoji": {
         "name": "✨"
@@ -514,7 +514,7 @@
     },
     {
       "id": "dance-helltaker",
-      "label": "スタンプ055",
+      "label": "踊る・ヘルテイカー",
       "description": "Dance-Helltaker",
       "emoji": {
         "name": "✨"
@@ -523,7 +523,7 @@
     },
     {
       "id": "dance-lowcortisol",
-      "label": "スタンプ056",
+      "label": "踊る・残量わずか・コルチゾール",
       "description": "Dance-LowCortisol",
       "emoji": {
         "name": "✨"
@@ -532,7 +532,7 @@
     },
     {
       "id": "dance-scuba",
-      "label": "スタンプ057",
+      "label": "踊る・スキューバ",
       "description": "Dance-Scuba",
       "emoji": {
         "name": "✨"
@@ -541,7 +541,7 @@
     },
     {
       "id": "dead",
-      "label": "スタンプ058",
+      "label": "死亡",
       "description": "Dead",
       "emoji": {
         "name": "✨"
@@ -550,7 +550,7 @@
     },
     {
       "id": "dizzy",
-      "label": "スタンプ059",
+      "label": "めまい",
       "description": "Dizzy",
       "emoji": {
         "name": "✨"
@@ -559,7 +559,7 @@
     },
     {
       "id": "draw-angry",
-      "label": "スタンプ060",
+      "label": "描く・怒る",
       "description": "Draw-Angry",
       "emoji": {
         "name": "✨"
@@ -568,7 +568,7 @@
     },
     {
       "id": "draw-normal",
-      "label": "スタンプ061",
+      "label": "描く・通常",
       "description": "Draw-Normal",
       "emoji": {
         "name": "✨"
@@ -577,7 +577,7 @@
     },
     {
       "id": "draw-tired",
-      "label": "スタンプ062",
+      "label": "描く・疲れた",
       "description": "Draw-Tired",
       "emoji": {
         "name": "✨"
@@ -586,7 +586,7 @@
     },
     {
       "id": "drink-beveragecup",
-      "label": "スタンプ063",
+      "label": "飲む・飲み物・カップ",
       "description": "Drink-BeverageCup",
       "emoji": {
         "name": "✨"
@@ -595,7 +595,7 @@
     },
     {
       "id": "drink-energydrink1",
-      "label": "スタンプ064",
+      "label": "飲む・エネルギー・飲む・1",
       "description": "Drink-EnergyDrink1",
       "emoji": {
         "name": "✨"
@@ -604,7 +604,7 @@
     },
     {
       "id": "drink-energydrink2",
-      "label": "スタンプ065",
+      "label": "飲む・エネルギー・飲む・2",
       "description": "Drink-EnergyDrink2",
       "emoji": {
         "name": "✨"
@@ -613,7 +613,7 @@
     },
     {
       "id": "drive",
-      "label": "スタンプ066",
+      "label": "運転",
       "description": "Drive",
       "emoji": {
         "name": "✨"
@@ -622,7 +622,7 @@
     },
     {
       "id": "drooling-chopstick",
-      "label": "スタンプ067",
+      "label": "よだれ・箸",
       "description": "Drooling-Chopstick",
       "emoji": {
         "name": "✨"
@@ -631,7 +631,7 @@
     },
     {
       "id": "drooling-forkknife",
-      "label": "スタンプ068",
+      "label": "よだれ・フォーク・ナイフ",
       "description": "Drooling-ForkKnife",
       "emoji": {
         "name": "✨"
@@ -640,7 +640,7 @@
     },
     {
       "id": "dum-1",
-      "label": "スタンプ069",
+      "label": "おバカ顔・1",
       "description": "Dum-1",
       "emoji": {
         "name": "✨"
@@ -649,7 +649,7 @@
     },
     {
       "id": "dum-2",
-      "label": "スタンプ070",
+      "label": "おバカ顔・2",
       "description": "Dum-2",
       "emoji": {
         "name": "✨"
@@ -658,7 +658,7 @@
     },
     {
       "id": "dum-3",
-      "label": "スタンプ071",
+      "label": "おバカ顔・3",
       "description": "Dum-3",
       "emoji": {
         "name": "✨"
@@ -667,7 +667,7 @@
     },
     {
       "id": "dum-sticker-1",
-      "label": "スタンプ072",
+      "label": "おバカ顔・ステッカー・1",
       "description": "Dum-Sticker-1",
       "emoji": {
         "name": "✨"
@@ -676,7 +676,7 @@
     },
     {
       "id": "dum-sticker-2",
-      "label": "スタンプ073",
+      "label": "おバカ顔・ステッカー・2",
       "description": "Dum-Sticker-2",
       "emoji": {
         "name": "✨"
@@ -685,7 +685,7 @@
     },
     {
       "id": "dum-sticker-3",
-      "label": "スタンプ074",
+      "label": "おバカ顔・ステッカー・3",
       "description": "Dum-Sticker-3",
       "emoji": {
         "name": "✨"
@@ -694,7 +694,7 @@
     },
     {
       "id": "easter",
-      "label": "スタンプ075",
+      "label": "イースター",
       "description": "Easter",
       "emoji": {
         "name": "✨"
@@ -703,7 +703,7 @@
     },
     {
       "id": "eat-donut",
-      "label": "スタンプ076",
+      "label": "食べる・ドーナツ",
       "description": "Eat-Donut",
       "emoji": {
         "name": "✨"
@@ -712,7 +712,7 @@
     },
     {
       "id": "eat-popcorn",
-      "label": "スタンプ077",
+      "label": "食べる・ポップコーン",
       "description": "Eat-Popcorn",
       "emoji": {
         "name": "✨"
@@ -721,7 +721,7 @@
     },
     {
       "id": "eat-watermelon",
-      "label": "スタンプ078",
+      "label": "食べる・スイカ",
       "description": "Eat-Watermelon",
       "emoji": {
         "name": "✨"
@@ -730,7 +730,7 @@
     },
     {
       "id": "electricfan-1",
-      "label": "スタンプ079",
+      "label": "電気・扇風機・1",
       "description": "ElectricFan-1",
       "emoji": {
         "name": "✨"
@@ -739,7 +739,7 @@
     },
     {
       "id": "electricfan-2",
-      "label": "スタンプ080",
+      "label": "電気・扇風機・2",
       "description": "ElectricFan-2",
       "emoji": {
         "name": "✨"
@@ -748,7 +748,7 @@
     },
     {
       "id": "exclamation",
-      "label": "スタンプ081",
+      "label": "びっくり",
       "description": "Exclamation",
       "emoji": {
         "name": "✨"
@@ -757,7 +757,7 @@
     },
     {
       "id": "fire-1",
-      "label": "スタンプ082",
+      "label": "炎・1",
       "description": "Fire-1",
       "emoji": {
         "name": "✨"
@@ -766,7 +766,7 @@
     },
     {
       "id": "fire-2",
-      "label": "スタンプ083",
+      "label": "炎・2",
       "description": "Fire-2",
       "emoji": {
         "name": "✨"
@@ -775,7 +775,7 @@
     },
     {
       "id": "foldingfans",
-      "label": "スタンプ084",
+      "label": "折りたたみ・扇子",
       "description": "FoldingFans",
       "emoji": {
         "name": "✨"
@@ -784,7 +784,7 @@
     },
     {
       "id": "game",
-      "label": "スタンプ085",
+      "label": "ゲーム",
       "description": "Game",
       "emoji": {
         "name": "✨"
@@ -793,7 +793,7 @@
     },
     {
       "id": "gethit-bits",
-      "label": "スタンプ086",
+      "label": "受ける・攻撃・ビッツ",
       "description": "GetHit-Bits",
       "emoji": {
         "name": "✨"
@@ -802,7 +802,7 @@
     },
     {
       "id": "gethit-coin",
-      "label": "スタンプ087",
+      "label": "受ける・攻撃・コイン",
       "description": "GetHit-Coin",
       "emoji": {
         "name": "✨"
@@ -811,7 +811,7 @@
     },
     {
       "id": "gethit-custom",
-      "label": "スタンプ088",
+      "label": "受ける・攻撃・カスタム",
       "description": "GetHit-Custom",
       "emoji": {
         "name": "✨"
@@ -820,7 +820,7 @@
     },
     {
       "id": "gethit-heart",
-      "label": "スタンプ089",
+      "label": "受ける・攻撃・ハート",
       "description": "GetHit-Heart",
       "emoji": {
         "name": "✨"
@@ -829,7 +829,7 @@
     },
     {
       "id": "gethit-slipper",
-      "label": "スタンプ090",
+      "label": "受ける・攻撃・スリッパ",
       "description": "GetHit-Slipper",
       "emoji": {
         "name": "✨"
@@ -838,7 +838,7 @@
     },
     {
       "id": "gift-1",
-      "label": "スタンプ091",
+      "label": "ギフト・1",
       "description": "Gift-1",
       "emoji": {
         "name": "✨"
@@ -847,7 +847,7 @@
     },
     {
       "id": "gift-2",
-      "label": "スタンプ092",
+      "label": "ギフト・2",
       "description": "Gift-2",
       "emoji": {
         "name": "✨"
@@ -856,7 +856,7 @@
     },
     {
       "id": "gift-3",
-      "label": "スタンプ093",
+      "label": "ギフト・3",
       "description": "Gift-3",
       "emoji": {
         "name": "✨"
@@ -865,7 +865,7 @@
     },
     {
       "id": "greeting-1",
-      "label": "スタンプ094",
+      "label": "あいさつ・1",
       "description": "Greeting-1",
       "emoji": {
         "name": "✨"
@@ -874,7 +874,7 @@
     },
     {
       "id": "greeting-2",
-      "label": "スタンプ095",
+      "label": "あいさつ・2",
       "description": "Greeting-2",
       "emoji": {
         "name": "✨"
@@ -883,7 +883,7 @@
     },
     {
       "id": "guitar",
-      "label": "スタンプ096",
+      "label": "ギター",
       "description": "Guitar",
       "emoji": {
         "name": "✨"
@@ -892,7 +892,7 @@
     },
     {
       "id": "gun-triggerhappy",
-      "label": "スタンプ097",
+      "label": "銃・引き金・嬉しい",
       "description": "Gun-TriggerHappy",
       "emoji": {
         "name": "✨"
@@ -901,7 +901,7 @@
     },
     {
       "id": "head-nod",
-      "label": "スタンプ098",
+      "label": "頭・うなずく",
       "description": "Head-Nod",
       "emoji": {
         "name": "✨"
@@ -910,7 +910,7 @@
     },
     {
       "id": "head-shake",
-      "label": "スタンプ099",
+      "label": "頭・振る",
       "description": "Head-Shake",
       "emoji": {
         "name": "✨"
@@ -919,7 +919,7 @@
     },
     {
       "id": "hurt",
-      "label": "スタンプ100",
+      "label": "痛い",
       "description": "Hurt",
       "emoji": {
         "name": "✨"
@@ -928,7 +928,7 @@
     },
     {
       "id": "hydrate",
-      "label": "スタンプ101",
+      "label": "水分補給",
       "description": "Hydrate",
       "emoji": {
         "name": "✨"
@@ -937,7 +937,7 @@
     },
     {
       "id": "hypnosis",
-      "label": "スタンプ102",
+      "label": "催眠",
       "description": "Hypnosis",
       "emoji": {
         "name": "✨"
@@ -946,7 +946,7 @@
     },
     {
       "id": "idea",
-      "label": "スタンプ103",
+      "label": "ひらめき",
       "description": "Idea",
       "emoji": {
         "name": "✨"
@@ -955,7 +955,7 @@
     },
     {
       "id": "jail-1",
-      "label": "スタンプ104",
+      "label": "牢屋・1",
       "description": "Jail-1",
       "emoji": {
         "name": "✨"
@@ -964,7 +964,7 @@
     },
     {
       "id": "jail-2",
-      "label": "スタンプ105",
+      "label": "牢屋・2",
       "description": "Jail-2",
       "emoji": {
         "name": "✨"
@@ -973,7 +973,7 @@
     },
     {
       "id": "knife-1",
-      "label": "スタンプ106",
+      "label": "ナイフ・1",
       "description": "Knife-1",
       "emoji": {
         "name": "✨"
@@ -982,7 +982,7 @@
     },
     {
       "id": "knife-2",
-      "label": "スタンプ107",
+      "label": "ナイフ・2",
       "description": "Knife-2",
       "emoji": {
         "name": "✨"
@@ -991,7 +991,7 @@
     },
     {
       "id": "laugh-point",
-      "label": "スタンプ108",
+      "label": "笑う・点",
       "description": "Laugh-Point",
       "emoji": {
         "name": "✨"
@@ -1000,7 +1000,7 @@
     },
     {
       "id": "laugh",
-      "label": "スタンプ109",
+      "label": "笑う",
       "description": "Laugh",
       "emoji": {
         "name": "✨"
@@ -1009,7 +1009,7 @@
     },
     {
       "id": "lick-icecream",
-      "label": "スタンプ110",
+      "label": "なめる・アイス・クリーム",
       "description": "Lick-IceCream",
       "emoji": {
         "name": "✨"
@@ -1018,7 +1018,7 @@
     },
     {
       "id": "lick-popsicle",
-      "label": "スタンプ111",
+      "label": "なめる・アイスキャンディー",
       "description": "Lick-Popsicle",
       "emoji": {
         "name": "✨"
@@ -1027,7 +1027,7 @@
     },
     {
       "id": "lick",
-      "label": "スタンプ112",
+      "label": "なめる",
       "description": "Lick",
       "emoji": {
         "name": "✨"
@@ -1036,7 +1036,7 @@
     },
     {
       "id": "lightstick-1",
-      "label": "スタンプ113",
+      "label": "ペンライト・1",
       "description": "Lightstick-1",
       "emoji": {
         "name": "✨"
@@ -1045,7 +1045,7 @@
     },
     {
       "id": "lightstick-2",
-      "label": "スタンプ114",
+      "label": "ペンライト・2",
       "description": "Lightstick-2",
       "emoji": {
         "name": "✨"
@@ -1054,7 +1054,7 @@
     },
     {
       "id": "loading-cup",
-      "label": "スタンプ115",
+      "label": "読み込み中・カップ",
       "description": "Loading-Cup",
       "emoji": {
         "name": "✨"
@@ -1063,7 +1063,7 @@
     },
     {
       "id": "loading-mug",
-      "label": "スタンプ116",
+      "label": "読み込み中・マグカップ",
       "description": "Loading-Mug",
       "emoji": {
         "name": "✨"
@@ -1072,7 +1072,7 @@
     },
     {
       "id": "loading-sleep",
-      "label": "スタンプ117",
+      "label": "読み込み中・寝る",
       "description": "Loading-Sleep",
       "emoji": {
         "name": "✨"
@@ -1081,7 +1081,7 @@
     },
     {
       "id": "loveletter",
-      "label": "スタンプ118",
+      "label": "愛・手紙",
       "description": "LoveLetter",
       "emoji": {
         "name": "✨"
@@ -1090,7 +1090,7 @@
     },
     {
       "id": "lurk-1",
-      "label": "スタンプ119",
+      "label": "潜む・1",
       "description": "Lurk-1",
       "emoji": {
         "name": "✨"
@@ -1099,7 +1099,7 @@
     },
     {
       "id": "lurk-2",
-      "label": "スタンプ120",
+      "label": "潜む・2",
       "description": "Lurk-2",
       "emoji": {
         "name": "✨"
@@ -1108,7 +1108,7 @@
     },
     {
       "id": "luv-1",
-      "label": "スタンプ121",
+      "label": "好き・1",
       "description": "Luv-1",
       "emoji": {
         "name": "✨"
@@ -1117,7 +1117,7 @@
     },
     {
       "id": "luv-2",
-      "label": "スタンプ122",
+      "label": "好き・2",
       "description": "Luv-2",
       "emoji": {
         "name": "✨"
@@ -1126,7 +1126,7 @@
     },
     {
       "id": "luv-3",
-      "label": "スタンプ123",
+      "label": "好き・3",
       "description": "Luv-3",
       "emoji": {
         "name": "✨"
@@ -1135,7 +1135,7 @@
     },
     {
       "id": "magic",
-      "label": "スタンプ124",
+      "label": "魔法",
       "description": "Magic",
       "emoji": {
         "name": "✨"
@@ -1144,7 +1144,7 @@
     },
     {
       "id": "megaphone",
-      "label": "スタンプ125",
+      "label": "メガホン",
       "description": "Megaphone",
       "emoji": {
         "name": "✨"
@@ -1153,7 +1153,7 @@
     },
     {
       "id": "money",
-      "label": "スタンプ126",
+      "label": "お金",
       "description": "Money",
       "emoji": {
         "name": "✨"
@@ -1162,7 +1162,7 @@
     },
     {
       "id": "music-1",
-      "label": "スタンプ127",
+      "label": "音楽・1",
       "description": "Music-1",
       "emoji": {
         "name": "✨"
@@ -1171,7 +1171,7 @@
     },
     {
       "id": "music-2",
-      "label": "スタンプ128",
+      "label": "音楽・2",
       "description": "Music-2",
       "emoji": {
         "name": "✨"
@@ -1180,7 +1180,7 @@
     },
     {
       "id": "music-3",
-      "label": "スタンプ129",
+      "label": "音楽・3",
       "description": "Music-3",
       "emoji": {
         "name": "✨"
@@ -1189,7 +1189,7 @@
     },
     {
       "id": "mute-1",
-      "label": "スタンプ130",
+      "label": "ミュート・1",
       "description": "Mute-1",
       "emoji": {
         "name": "✨"
@@ -1198,7 +1198,7 @@
     },
     {
       "id": "mute-2",
-      "label": "スタンプ131",
+      "label": "ミュート・2",
       "description": "Mute-2",
       "emoji": {
         "name": "✨"
@@ -1207,7 +1207,7 @@
     },
     {
       "id": "needfood",
-      "label": "スタンプ132",
+      "label": "必要・食べ物",
       "description": "NeedFood",
       "emoji": {
         "name": "✨"
@@ -1216,7 +1216,7 @@
     },
     {
       "id": "nerd-1",
-      "label": "スタンプ133",
+      "label": "オタク・1",
       "description": "Nerd-1",
       "emoji": {
         "name": "✨"
@@ -1225,7 +1225,7 @@
     },
     {
       "id": "nerd-2",
-      "label": "スタンプ134",
+      "label": "オタク・2",
       "description": "Nerd-2",
       "emoji": {
         "name": "✨"
@@ -1234,7 +1234,7 @@
     },
     {
       "id": "nerd-3",
-      "label": "スタンプ135",
+      "label": "オタク・3",
       "description": "Nerd-3",
       "emoji": {
         "name": "✨"
@@ -1243,7 +1243,7 @@
     },
     {
       "id": "nervous-1",
-      "label": "スタンプ136",
+      "label": "緊張・1",
       "description": "Nervous-1",
       "emoji": {
         "name": "✨"
@@ -1252,7 +1252,7 @@
     },
     {
       "id": "nervous-2",
-      "label": "スタンプ137",
+      "label": "緊張・2",
       "description": "Nervous-2",
       "emoji": {
         "name": "✨"
@@ -1261,7 +1261,7 @@
     },
     {
       "id": "nervous-3",
-      "label": "スタンプ138",
+      "label": "緊張・3",
       "description": "Nervous-3",
       "emoji": {
         "name": "✨"
@@ -1270,7 +1270,7 @@
     },
     {
       "id": "noted-1",
-      "label": "スタンプ139",
+      "label": "了解・1",
       "description": "Noted-1",
       "emoji": {
         "name": "✨"
@@ -1279,7 +1279,7 @@
     },
     {
       "id": "noted-2",
-      "label": "スタンプ140",
+      "label": "了解・2",
       "description": "Noted-2",
       "emoji": {
         "name": "✨"
@@ -1288,7 +1288,7 @@
     },
     {
       "id": "pngtuber-idle",
-      "label": "スタンプ141",
+      "label": "PNGチューバー・待機",
       "description": "PNGTuber-Idle",
       "emoji": {
         "name": "✨"
@@ -1297,7 +1297,7 @@
     },
     {
       "id": "pngtuber-idle2",
-      "label": "スタンプ142",
+      "label": "PNGチューバー・待機・2",
       "description": "PNGTuber-Idle2",
       "emoji": {
         "name": "✨"
@@ -1306,7 +1306,7 @@
     },
     {
       "id": "pngtuber-loading",
-      "label": "スタンプ143",
+      "label": "PNGチューバー・読み込み中",
       "description": "PNGTuber-Loading",
       "emoji": {
         "name": "✨"
@@ -1315,7 +1315,7 @@
     },
     {
       "id": "pngtuber-talk",
-      "label": "スタンプ144",
+      "label": "PNGチューバー・話す",
       "description": "PNGTuber-Talk",
       "emoji": {
         "name": "✨"
@@ -1324,7 +1324,7 @@
     },
     {
       "id": "pngtuber-talk2",
-      "label": "スタンプ145",
+      "label": "PNGチューバー・話す・2",
       "description": "PNGTuber-Talk2",
       "emoji": {
         "name": "✨"
@@ -1333,7 +1333,7 @@
     },
     {
       "id": "pngtuber-yap",
-      "label": "スタンプ146",
+      "label": "PNGチューバー・おしゃべり",
       "description": "PNGTuber-Yap",
       "emoji": {
         "name": "✨"
@@ -1342,7 +1342,7 @@
     },
     {
       "id": "paidbreak-easymode",
-      "label": "スタンプ147",
+      "label": "有料・休憩・簡単・モード",
       "description": "PaidBreak-EasyMode",
       "emoji": {
         "name": "✨"
@@ -1351,7 +1351,7 @@
     },
     {
       "id": "paidbreak-hardmode",
-      "label": "スタンプ148",
+      "label": "有料・休憩・難しい・モード",
       "description": "PaidBreak-HardMode",
       "emoji": {
         "name": "✨"
@@ -1360,7 +1360,7 @@
     },
     {
       "id": "pat-2",
-      "label": "スタンプ149",
+      "label": "なでる・2",
       "description": "Pat-2",
       "emoji": {
         "name": "✨"
@@ -1369,7 +1369,7 @@
     },
     {
       "id": "pat",
-      "label": "スタンプ150",
+      "label": "なでる",
       "description": "Pat",
       "emoji": {
         "name": "✨"
@@ -1378,7 +1378,7 @@
     },
     {
       "id": "pillow-lick",
-      "label": "スタンプ151",
+      "label": "枕・なめる",
       "description": "Pillow-Lick",
       "emoji": {
         "name": "✨"
@@ -1387,7 +1387,7 @@
     },
     {
       "id": "pillow-rub",
-      "label": "スタンプ152",
+      "label": "枕・こする",
       "description": "Pillow-Rub",
       "emoji": {
         "name": "✨"
@@ -1396,7 +1396,7 @@
     },
     {
       "id": "pillow-rub2",
-      "label": "スタンプ153",
+      "label": "枕・こする・2",
       "description": "Pillow-Rub2",
       "emoji": {
         "name": "✨"
@@ -1405,7 +1405,7 @@
     },
     {
       "id": "point",
-      "label": "スタンプ154",
+      "label": "点",
       "description": "Point",
       "emoji": {
         "name": "✨"
@@ -1414,7 +1414,7 @@
     },
     {
       "id": "popcat-frame",
-      "label": "スタンプ155",
+      "label": "ポップキャット・フレーム",
       "description": "Popcat-Frame",
       "emoji": {
         "name": "✨"
@@ -1423,7 +1423,7 @@
     },
     {
       "id": "popcat-smooth",
-      "label": "スタンプ156",
+      "label": "ポップキャット・なめらか",
       "description": "Popcat-Smooth",
       "emoji": {
         "name": "✨"
@@ -1432,7 +1432,7 @@
     },
     {
       "id": "press",
-      "label": "スタンプ157",
+      "label": "押す",
       "description": "Press",
       "emoji": {
         "name": "✨"
@@ -1441,7 +1441,7 @@
     },
     {
       "id": "pumpkin",
-      "label": "スタンプ158",
+      "label": "かぼちゃ",
       "description": "Pumpkin",
       "emoji": {
         "name": "✨"
@@ -1450,7 +1450,7 @@
     },
     {
       "id": "question",
-      "label": "スタンプ159",
+      "label": "疑問",
       "description": "Question",
       "emoji": {
         "name": "✨"
@@ -1459,7 +1459,7 @@
     },
     {
       "id": "raid-1",
-      "label": "スタンプ160",
+      "label": "襲撃・1",
       "description": "Raid-1",
       "emoji": {
         "name": "✨"
@@ -1468,7 +1468,7 @@
     },
     {
       "id": "raid-2",
-      "label": "スタンプ161",
+      "label": "襲撃・2",
       "description": "Raid-2",
       "emoji": {
         "name": "✨"
@@ -1477,7 +1477,7 @@
     },
     {
       "id": "redpacket-2",
-      "label": "スタンプ162",
+      "label": "赤・袋・2",
       "description": "RedPacket-2",
       "emoji": {
         "name": "✨"
@@ -1486,7 +1486,7 @@
     },
     {
       "id": "redpacket-1",
-      "label": "スタンプ163",
+      "label": "ご祝儀袋・1",
       "description": "Redpacket-1",
       "emoji": {
         "name": "✨"
@@ -1495,7 +1495,7 @@
     },
     {
       "id": "reverse",
-      "label": "スタンプ164",
+      "label": "反転",
       "description": "Reverse",
       "emoji": {
         "name": "✨"
@@ -1504,7 +1504,7 @@
     },
     {
       "id": "rose",
-      "label": "スタンプ165",
+      "label": "バラ",
       "description": "Rose",
       "emoji": {
         "name": "✨"
@@ -1513,7 +1513,7 @@
     },
     {
       "id": "rub-1",
-      "label": "スタンプ166",
+      "label": "こする・1",
       "description": "Rub-1",
       "emoji": {
         "name": "✨"
@@ -1522,7 +1522,7 @@
     },
     {
       "id": "scared-1",
-      "label": "スタンプ167",
+      "label": "怖い・1",
       "description": "Scared-1",
       "emoji": {
         "name": "✨"
@@ -1531,7 +1531,7 @@
     },
     {
       "id": "scared-2",
-      "label": "スタンプ168",
+      "label": "怖い・2",
       "description": "Scared-2",
       "emoji": {
         "name": "✨"
@@ -1540,7 +1540,7 @@
     },
     {
       "id": "scared-cross",
-      "label": "スタンプ169",
+      "label": "怖い・十字",
       "description": "Scared-Cross",
       "emoji": {
         "name": "✨"
@@ -1549,7 +1549,7 @@
     },
     {
       "id": "score-0point",
-      "label": "スタンプ170",
+      "label": "スコア・0・点",
       "description": "Score-0Point",
       "emoji": {
         "name": "✨"
@@ -1558,7 +1558,7 @@
     },
     {
       "id": "score-10point",
-      "label": "スタンプ171",
+      "label": "スコア・10・点",
       "description": "Score-10Point",
       "emoji": {
         "name": "✨"
@@ -1567,7 +1567,7 @@
     },
     {
       "id": "shy-1",
-      "label": "スタンプ172",
+      "label": "恥ずかしい・1",
       "description": "Shy-1",
       "emoji": {
         "name": "✨"
@@ -1576,7 +1576,7 @@
     },
     {
       "id": "shy-2",
-      "label": "スタンプ173",
+      "label": "恥ずかしい・2",
       "description": "Shy-2",
       "emoji": {
         "name": "✨"
@@ -1585,7 +1585,7 @@
     },
     {
       "id": "shy-3",
-      "label": "スタンプ174",
+      "label": "恥ずかしい・3",
       "description": "Shy-3",
       "emoji": {
         "name": "✨"
@@ -1594,7 +1594,7 @@
     },
     {
       "id": "sick-bed",
-      "label": "スタンプ175",
+      "label": "具合が悪い・ベッド",
       "description": "Sick-bed",
       "emoji": {
         "name": "✨"
@@ -1603,7 +1603,7 @@
     },
     {
       "id": "sick",
-      "label": "スタンプ176",
+      "label": "具合が悪い",
       "description": "Sick",
       "emoji": {
         "name": "✨"
@@ -1612,7 +1612,7 @@
     },
     {
       "id": "sing",
-      "label": "スタンプ177",
+      "label": "歌う",
       "description": "Sing",
       "emoji": {
         "name": "✨"
@@ -1621,7 +1621,7 @@
     },
     {
       "id": "sixseven-dum",
-      "label": "スタンプ178",
+      "label": "六・七・おバカ顔",
       "description": "SixSeven-Dum",
       "emoji": {
         "name": "✨"
@@ -1630,7 +1630,7 @@
     },
     {
       "id": "sixseven",
-      "label": "スタンプ179",
+      "label": "六・七",
       "description": "SixSeven",
       "emoji": {
         "name": "✨"
@@ -1639,7 +1639,7 @@
     },
     {
       "id": "sleep-normal",
-      "label": "スタンプ180",
+      "label": "寝る・通常",
       "description": "Sleep-Normal",
       "emoji": {
         "name": "✨"
@@ -1648,7 +1648,7 @@
     },
     {
       "id": "sleep-preparing-stage1",
-      "label": "スタンプ181",
+      "label": "寝る・準備中・段階・1",
       "description": "Sleep-Preparing-Stage1",
       "emoji": {
         "name": "✨"
@@ -1657,7 +1657,7 @@
     },
     {
       "id": "sleep-preparing-stage2",
-      "label": "スタンプ182",
+      "label": "寝る・準備中・段階・2",
       "description": "Sleep-Preparing-Stage2",
       "emoji": {
         "name": "✨"
@@ -1666,7 +1666,7 @@
     },
     {
       "id": "sleep-uu",
-      "label": "スタンプ183",
+      "label": "寝る・ダブルユー",
       "description": "Sleep-UU",
       "emoji": {
         "name": "✨"
@@ -1675,7 +1675,7 @@
     },
     {
       "id": "slipper-1",
-      "label": "スタンプ184",
+      "label": "スリッパ・1",
       "description": "Slipper-1",
       "emoji": {
         "name": "✨"
@@ -1684,7 +1684,7 @@
     },
     {
       "id": "slipper-2",
-      "label": "スタンプ185",
+      "label": "スリッパ・2",
       "description": "Slipper-2",
       "emoji": {
         "name": "✨"
@@ -1693,7 +1693,7 @@
     },
     {
       "id": "sparkling-1",
-      "label": "スタンプ186",
+      "label": "キラキラ・1",
       "description": "Sparkling-1",
       "emoji": {
         "name": "✨"
@@ -1702,7 +1702,7 @@
     },
     {
       "id": "sparkling-2",
-      "label": "スタンプ187",
+      "label": "キラキラ・2",
       "description": "Sparkling-2",
       "emoji": {
         "name": "✨"
@@ -1711,7 +1711,7 @@
     },
     {
       "id": "sparkling-3",
-      "label": "スタンプ188",
+      "label": "キラキラ・3",
       "description": "Sparkling-3",
       "emoji": {
         "name": "✨"
@@ -1720,7 +1720,7 @@
     },
     {
       "id": "spray",
-      "label": "スタンプ189",
+      "label": "スプレー",
       "description": "Spray",
       "emoji": {
         "name": "✨"
@@ -1729,7 +1729,7 @@
     },
     {
       "id": "stop",
-      "label": "スタンプ190",
+      "label": "止まれ",
       "description": "Stop",
       "emoji": {
         "name": "✨"
@@ -1738,7 +1738,7 @@
     },
     {
       "id": "stopsworking",
-      "label": "スタンプ191",
+      "label": "止まる・動作中",
       "description": "StopsWorking",
       "emoji": {
         "name": "✨"
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "sunglasses-gleam",
-      "label": "スタンプ192",
+      "label": "サングラス・きらめき",
       "description": "Sunglasses-Gleam",
       "emoji": {
         "name": "✨"
@@ -1756,7 +1756,7 @@
     },
     {
       "id": "sunglasses-loop",
-      "label": "スタンプ193",
+      "label": "サングラス・ループ",
       "description": "Sunglasses-Loop",
       "emoji": {
         "name": "✨"
@@ -1765,7 +1765,7 @@
     },
     {
       "id": "sunglasses-pixelgleam",
-      "label": "スタンプ194",
+      "label": "サングラス・ピクセル・きらめき",
       "description": "Sunglasses-PixelGleam",
       "emoji": {
         "name": "✨"
@@ -1774,7 +1774,7 @@
     },
     {
       "id": "sunglasses-remove",
-      "label": "スタンプ195",
+      "label": "サングラス・外す",
       "description": "Sunglasses-Remove",
       "emoji": {
         "name": "✨"
@@ -1783,7 +1783,7 @@
     },
     {
       "id": "surprise",
-      "label": "スタンプ196",
+      "label": "驚く",
       "description": "Surprise",
       "emoji": {
         "name": "✨"
@@ -1792,7 +1792,7 @@
     },
     {
       "id": "swatter",
-      "label": "スタンプ197",
+      "label": "ハエたたき",
       "description": "Swatter",
       "emoji": {
         "name": "✨"
@@ -1801,7 +1801,7 @@
     },
     {
       "id": "sweat-wipe1",
-      "label": "スタンプ198",
+      "label": "汗・拭く・1",
       "description": "Sweat-Wipe1",
       "emoji": {
         "name": "✨"
@@ -1810,7 +1810,7 @@
     },
     {
       "id": "sweat-wipe2",
-      "label": "スタンプ199",
+      "label": "汗・拭く・2",
       "description": "Sweat-Wipe2",
       "emoji": {
         "name": "✨"
@@ -1819,7 +1819,7 @@
     },
     {
       "id": "sweat",
-      "label": "スタンプ200",
+      "label": "汗",
       "description": "Sweat",
       "emoji": {
         "name": "✨"
@@ -1828,7 +1828,7 @@
     },
     {
       "id": "tablet",
-      "label": "スタンプ201",
+      "label": "タブレット",
       "description": "Tablet",
       "emoji": {
         "name": "✨"
@@ -1837,7 +1837,7 @@
     },
     {
       "id": "tailwag",
-      "label": "スタンプ202",
+      "label": "しっぽ・振る",
       "description": "TailWag",
       "emoji": {
         "name": "✨"
@@ -1846,7 +1846,7 @@
     },
     {
       "id": "takemymoney",
-      "label": "スタンプ203",
+      "label": "持っていく・私の・お金",
       "description": "TakeMyMoney",
       "emoji": {
         "name": "✨"
@@ -1855,7 +1855,7 @@
     },
     {
       "id": "tape",
-      "label": "スタンプ204",
+      "label": "テープ",
       "description": "Tape",
       "emoji": {
         "name": "✨"
@@ -1864,7 +1864,7 @@
     },
     {
       "id": "tea-1",
-      "label": "スタンプ205",
+      "label": "お茶・1",
       "description": "Tea-1",
       "emoji": {
         "name": "✨"
@@ -1873,7 +1873,7 @@
     },
     {
       "id": "tea-2",
-      "label": "スタンプ206",
+      "label": "お茶・2",
       "description": "Tea-2",
       "emoji": {
         "name": "✨"
@@ -1882,7 +1882,7 @@
     },
     {
       "id": "tea-3",
-      "label": "スタンプ207",
+      "label": "お茶・3",
       "description": "Tea-3",
       "emoji": {
         "name": "✨"
@@ -1891,7 +1891,7 @@
     },
     {
       "id": "think-confident",
-      "label": "スタンプ208",
+      "label": "考える・自信満々",
       "description": "Think-Confident",
       "emoji": {
         "name": "✨"
@@ -1900,7 +1900,7 @@
     },
     {
       "id": "think-serious",
-      "label": "スタンプ209",
+      "label": "考える・真剣",
       "description": "Think-Serious",
       "emoji": {
         "name": "✨"
@@ -1909,7 +1909,7 @@
     },
     {
       "id": "thisisfine-1",
-      "label": "スタンプ210",
+      "label": "これ・は・大丈夫・1",
       "description": "ThisIsFine-1",
       "emoji": {
         "name": "✨"
@@ -1918,7 +1918,7 @@
     },
     {
       "id": "thisisfine-2",
-      "label": "スタンプ211",
+      "label": "これ・は・大丈夫・2",
       "description": "ThisIsFine-2",
       "emoji": {
         "name": "✨"
@@ -1927,7 +1927,7 @@
     },
     {
       "id": "thisisfine-3",
-      "label": "スタンプ212",
+      "label": "これ・は・大丈夫・3",
       "description": "ThisIsFine-3",
       "emoji": {
         "name": "✨"
@@ -1936,7 +1936,7 @@
     },
     {
       "id": "thisisfine-4",
-      "label": "スタンプ213",
+      "label": "これ・は・大丈夫・4",
       "description": "ThisIsFine-4",
       "emoji": {
         "name": "✨"
@@ -1945,7 +1945,7 @@
     },
     {
       "id": "thisisfine-5",
-      "label": "スタンプ214",
+      "label": "これ・は・大丈夫・5",
       "description": "ThisIsFine-5",
       "emoji": {
         "name": "✨"
@@ -1954,7 +1954,7 @@
     },
     {
       "id": "thisisfine-6",
-      "label": "スタンプ215",
+      "label": "これ・は・大丈夫・6",
       "description": "ThisIsFine-6",
       "emoji": {
         "name": "✨"
@@ -1963,7 +1963,7 @@
     },
     {
       "id": "thumbdown",
-      "label": "スタンプ216",
+      "label": "親指・下",
       "description": "ThumbDown",
       "emoji": {
         "name": "✨"
@@ -1972,7 +1972,7 @@
     },
     {
       "id": "thumbup",
-      "label": "スタンプ217",
+      "label": "親指・上",
       "description": "ThumbUp",
       "emoji": {
         "name": "✨"
@@ -1981,7 +1981,7 @@
     },
     {
       "id": "trashbin",
-      "label": "スタンプ218",
+      "label": "ゴミ・箱",
       "description": "TrashBin",
       "emoji": {
         "name": "✨"
@@ -1990,7 +1990,7 @@
     },
     {
       "id": "trashtuber-idle",
-      "label": "スタンプ219",
+      "label": "ゴミ・チューバー・待機",
       "description": "TrashTuber-Idle",
       "emoji": {
         "name": "✨"
@@ -1999,7 +1999,7 @@
     },
     {
       "id": "trashtuber-talk",
-      "label": "スタンプ220",
+      "label": "ゴミ・チューバー・話す",
       "description": "TrashTuber-Talk",
       "emoji": {
         "name": "✨"
@@ -2008,7 +2008,7 @@
     },
     {
       "id": "trashtuber-yap",
-      "label": "スタンプ221",
+      "label": "ゴミ・チューバー・おしゃべり",
       "description": "TrashTuber-Yap",
       "emoji": {
         "name": "✨"
@@ -2017,7 +2017,7 @@
     },
     {
       "id": "trophy-1",
-      "label": "スタンプ222",
+      "label": "トロフィー・1",
       "description": "Trophy-1",
       "emoji": {
         "name": "✨"
@@ -2026,7 +2026,7 @@
     },
     {
       "id": "type-angry",
-      "label": "スタンプ223",
+      "label": "入力・怒る",
       "description": "Type-Angry",
       "emoji": {
         "name": "✨"
@@ -2035,7 +2035,7 @@
     },
     {
       "id": "type-annoyed",
-      "label": "スタンプ224",
+      "label": "入力・うんざり",
       "description": "Type-Annoyed",
       "emoji": {
         "name": "✨"
@@ -2044,7 +2044,7 @@
     },
     {
       "id": "type-normal",
-      "label": "スタンプ225",
+      "label": "入力・通常",
       "description": "Type-Normal",
       "emoji": {
         "name": "✨"
@@ -2053,7 +2053,7 @@
     },
     {
       "id": "wiggle-1",
-      "label": "スタンプ226",
+      "label": "ゆらゆら・1",
       "description": "Wiggle-1",
       "emoji": {
         "name": "✨"
@@ -2062,7 +2062,7 @@
     },
     {
       "id": "wiggle-2",
-      "label": "スタンプ227",
+      "label": "ゆらゆら・2",
       "description": "Wiggle-2",
       "emoji": {
         "name": "✨"
@@ -2071,7 +2071,7 @@
     },
     {
       "id": "wink",
-      "label": "スタンプ228",
+      "label": "ウインク",
       "description": "Wink",
       "emoji": {
         "name": "✨"
@@ -2080,7 +2080,7 @@
     },
     {
       "id": "work-angry",
-      "label": "スタンプ229",
+      "label": "仕事・怒る",
       "description": "Work-Angry",
       "emoji": {
         "name": "✨"
@@ -2089,7 +2089,7 @@
     },
     {
       "id": "work-nap",
-      "label": "スタンプ230",
+      "label": "仕事・昼寝",
       "description": "Work-Nap",
       "emoji": {
         "name": "✨"
@@ -2098,7 +2098,7 @@
     },
     {
       "id": "work-normal",
-      "label": "スタンプ231",
+      "label": "仕事・通常",
       "description": "Work-Normal",
       "emoji": {
         "name": "✨"
@@ -2107,7 +2107,7 @@
     },
     {
       "id": "work-tired",
-      "label": "スタンプ232",
+      "label": "仕事・疲れた",
       "description": "Work-Tired",
       "emoji": {
         "name": "✨"
@@ -2116,7 +2116,7 @@
     },
     {
       "id": "yay",
-      "label": "スタンプ233",
+      "label": "やったー",
       "description": "Yay",
       "emoji": {
         "name": "✨"
@@ -2125,7 +2125,7 @@
     },
     {
       "id": "stamp-234",
-      "label": "スタンプ234",
+      "label": "いいね・アラート",
       "description": "いいね アラート",
       "emoji": {
         "name": "✨"
@@ -2134,7 +2134,7 @@
     },
     {
       "id": "stamp-235",
-      "label": "スタンプ235",
+      "label": "アラートカスタム",
       "description": "アラートカスタム",
       "emoji": {
         "name": "✨"
@@ -2143,7 +2143,7 @@
     },
     {
       "id": "stamp-236",
-      "label": "スタンプ236",
+      "label": "ハート・アラート",
       "description": "ハート アラート",
       "emoji": {
         "name": "✨"
@@ -2152,7 +2152,7 @@
     },
     {
       "id": "stamp-237",
-      "label": "スタンプ237",
+      "label": "ビッツ・アラート",
       "description": "ビッツ アラート",
       "emoji": {
         "name": "✨"
@@ -2161,7 +2161,7 @@
     },
     {
       "id": "stamp-238",
-      "label": "スタンプ238",
+      "label": "寄付・アラート",
       "description": "寄付 アラート",
       "emoji": {
         "name": "✨"
@@ -2170,7 +2170,7 @@
     },
     {
       "id": "stamp-239",
-      "label": "スタンプ239",
+      "label": "星・アラート",
       "description": "星 アラート",
       "emoji": {
         "name": "✨"
